@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price_INR,Total_Sales_INR,Region,Payment_Mode,Customer_Age,Gender
+ORD00001,10-06-2025,USB Drive,Electronics,4,534.79,2139.16,Mumbai,Cash,27,Female
+ORD00002,07-07-2025,Headphones,Electronics,4,1584.76,6339.04,Pune,Net Banking,39,Male
+ORD00003,24-08-2025,USB Drive,Electronics,4,531.21,2124.84,Nashik,Debit Card,39,Female
+ORD00004,12-04-2025,Sneakers,Clothing,1,2129.99,2129.99,Nagpur,UPI,54,Male
+ORD00005,22-11-2025,USB Drive,Electronics,3,526.78,1580.34,Aurangabad,UPI,35,Male
+ORD00006,03-12-2025,Cookware Set,Home & Kitchen,1,1864.86,1864.86,Nagpur,Credit Card,64,Male
+ORD00007,21-06-2025,Moisturizer,Beauty,1,327.33,327.33,Navi Mumbai,UPI,50,Male
+ORD00008,28-02-2025,Cookware Set,Home & Kitchen,4,1776.39,7105.56,Aurangabad,Cash,51,Male
+ORD00009,21-10-2025,Children's Book,Books,3,243.4,730.2,Kolhapur,Credit Card,29,Male
+ORD00010,18-10-2025,Children's Book,Books,1,224.47,224.47,Aurangabad,Cash,49,Female
+ORD00011,17-06-2025,Sneakers,Clothing,3,2026.48,6079.44,Mumbai,UPI,29,Female
+ORD00012,29-01-2025,Headphones,Electronics,3,1518.56,4555.68,Aurangabad,Debit Card,48,Female
+ORD00013,21-04-2025,Headphones,Electronics,4,1358.34,5433.36,Thane,Debit Card,65,Male
+ORD00014,27-10-2025,Sneakers,Clothing,5,1892.63,9463.15,Mumbai,Net Banking,31,Male
+ORD00015,23-07-2025,Cookware Set,Home & Kitchen,1,1901.15,1901.15,Kolhapur,Cash,37,Female
+ORD00016,08-02-2025,Mixer Grinder,Home & Kitchen,1,2260.45,2260.45,Mumbai,Cash,52,Male
+ORD00017,02-07-2025,Novel,Books,5,278.21,1391.05,Navi Mumbai,Cash,41,Male
+ORD00018,10-08-2025,Water Bottle,Home & Kitchen,2,409.4,818.8,Thane,Net Banking,22,Male
+ORD00019,28-11-2025,Sneakers,Clothing,2,2078.84,4157.68,Navi Mumbai,Credit Card,54,Female
+ORD00020,26-09-2025,Moisturizer,Beauty,4,345.47,1381.88,Thane,UPI,22,Female
+ORD00021,15-03-2025,Keyboard,Electronics,4,864.11,3456.44,Aurangabad,Debit Card,44,Female
+ORD00022,31-08-2025,Wireless Mouse,Electronics,4,625.29,2501.16,Navi Mumbai,Credit Card,48,Female
+ORD00023,31-01-2025,Headphones,Electronics,4,1473.76,5895.04,Aurangabad,UPI,26,Male
+ORD00024,05-03-2025,Cookware Set,Home & Kitchen,1,1656.3,1656.3,Nashik,Cash,26,Female
+ORD00025,07-05-2025,Sunscreen,Beauty,3,508.07,1524.21,Thane,UPI,25,Male
+ORD00026,11-04-2025,Moisturizer,Beauty,4,319.87,1279.48,Navi Mumbai,Cash,41,Female
+ORD00027,22-06-2025,Headphones,Electronics,3,1429.14,4287.42,Kolhapur,Credit Card,44,Male
+ORD00028,04-01-2025,Mixer Grinder,Home & Kitchen,1,2662.08,2662.08,Kolhapur,Debit Card,24,Female
+ORD00029,03-09-2025,T-Shirt,Clothing,4,477.17,1908.68,Pune,Cash,53,Female
+ORD00030,22-12-2025,Business Book,Books,1,540.52,540.52,Pune,Credit Card,19,Female
+ORD00031,30-10-2025,Mixer Grinder,Home & Kitchen,2,2653.06,5306.12,Kolhapur,Credit Card,27,Male
+ORD00032,28-12-2025,Sunscreen,Beauty,3,474.65,1423.95,Kolhapur,UPI,25,Male
+ORD00033,29-12-2025,Jeans,Clothing,5,1400.76,7003.8,Mumbai,Cash,58,Female
+ORD00034,09-01-2025,Face Wash,Beauty,3,191.67,575.01,Aurangabad,Credit Card,49,Male
+ORD00035,30-09-2025,Face Wash,Beauty,4,189.55,758.2,Mumbai,Net Banking,63,Male
+ORD00036,30-09-2025,T-Shirt,Clothing,5,464.4,2322,Pune,Credit Card,46,Female
+ORD00037,24-04-2025,Wireless Mouse,Electronics,2,632.23,1264.46,Thane,Net Banking,41,Male
+ORD00038,12-04-2025,Bedsheet,Home & Kitchen,1,944.99,944.99,Pune,UPI,50,Male
+ORD00039,11-09-2025,Jacket,Clothing,5,2539.54,12697.7,Navi Mumbai,UPI,59,Female
+ORD00040,08-06-2025,Face Wash,Beauty,4,184.32,737.28,Mumbai,Debit Card,62,Male
+ORD00041,28-06-2025,Moisturizer,Beauty,1,360.37,360.37,Thane,Net Banking,43,Female
+ORD00042,24-02-2025,Jeans,Clothing,1,1313.34,1313.34,Nagpur,Net Banking,23,Male
+ORD00043,19-12-2025,Business Book,Books,1,508.59,508.59,Pune,Net Banking,53,Male
+ORD00044,31-08-2025,Sunscreen,Beauty,4,450.88,1803.52,Mumbai,Credit Card,57,Female
+ORD00045,13-07-2025,Water Bottle,Home & Kitchen,2,407.46,814.92,Kolhapur,Net Banking,54,Male
+ORD00046,11-02-2025,Novel,Books,2,294.57,589.14,Nagpur,Net Banking,59,Male
+ORD00047,28-03-2025,Water Bottle,Home & Kitchen,2,418.63,837.26,Aurangabad,Net Banking,64,Male
+ORD00048,12-03-2025,Keyboard,Electronics,3,835.38,2506.14,Aurangabad,Credit Card,32,Male
+ORD00049,02-03-2025,Shampoo,Beauty,3,286.13,858.39,Nashik,UPI,39,Male
+ORD00050,31-10-2025,Headphones,Electronics,1,1401.46,1401.46,Mumbai,Debit Card,46,Female
+ORD00051,27-04-2025,Moisturizer,Beauty,5,349.32,1746.6,Nagpur,Net Banking,56,Male
+ORD00052,25-03-2025,Moisturizer,Beauty,1,330.62,330.62,Pune,Cash,45,Male
+ORD00053,17-05-2025,T-Shirt,Clothing,1,501.37,501.37,Kolhapur,UPI,22,Male
+ORD00054,02-11-2025,Moisturizer,Beauty,5,321.02,1605.1,Aurangabad,Net Banking,61,Female
+ORD00055,12-10-2025,Sneakers,Clothing,3,2055.96,6167.88,Nashik,Cash,53,Female
+ORD00056,01-11-2025,Keyboard,Electronics,3,963.29,2889.87,Navi Mumbai,Cash,36,Female
+ORD00057,21-02-2025,Jeans,Clothing,1,1293.25,1293.25,Pune,Debit Card,47,Male
+ORD00058,08-06-2025,Jacket,Clothing,2,2412.78,4825.56,Navi Mumbai,UPI,50,Male
+ORD00059,01-12-2025,Children's Book,Books,4,248.05,992.2,Aurangabad,Credit Card,40,Female
+ORD00060,21-07-2025,Mixer Grinder,Home & Kitchen,4,2651.14,10604.56,Nashik,Cash,48,Male
+ORD00061,15-03-2025,Headphones,Electronics,1,1557.4,1557.4,Nashik,Net Banking,62,Female
+ORD00062,31-07-2025,Headphones,Electronics,1,1566.67,1566.67,Mumbai,Debit Card,62,Male
+ORD00063,20-10-2025,Shampoo,Beauty,1,304.6,304.6,Navi Mumbai,Cash,65,Female
+ORD00064,19-01-2025,Novel,Books,2,304.39,608.78,Mumbai,Debit Card,47,Male
+ORD00065,28-07-2025,Headphones,Electronics,1,1488.8,1488.8,Nagpur,Debit Card,52,Female
+ORD00066,20-02-2025,Cookbook,Books,3,406.95,1220.85,Kolhapur,Net Banking,23,Male
+ORD00067,29-08-2025,Novel,Books,3,294.13,882.39,Kolhapur,Cash,27,Male
+ORD00068,20-08-2025,Cookbook,Books,5,419.95,2099.75,Thane,Cash,35,Male
+ORD00069,23-02-2025,T-Shirt,Clothing,5,542.53,2712.65,Nashik,Debit Card,53,Female
+ORD00070,12-05-2025,T-Shirt,Clothing,3,542.53,1627.59,Aurangabad,Cash,41,Male
+ORD00071,19-09-2025,Children's Book,Books,1,271.47,271.47,Navi Mumbai,UPI,31,Female
+ORD00072,12-01-2025,Face Wash,Beauty,1,202.51,202.51,Nagpur,Debit Card,18,Male
+ORD00073,18-04-2025,Children's Book,Books,3,246.94,740.82,Thane,Debit Card,18,Female
+ORD00074,23-05-2025,Jacket,Clothing,4,2304.37,9217.48,Kolhapur,UPI,60,Male
+ORD00075,08-02-2025,Children's Book,Books,1,273.86,273.86,Mumbai,Cash,24,Male
+ORD00076,31-03-2025,Cookbook,Books,5,361.41,1807.05,Pune,Debit Card,24,Female
+ORD00077,29-11-2025,Face Wash,Beauty,1,205.22,205.22,Kolhapur,UPI,18,Male
+ORD00078,18-12-2025,USB Drive,Electronics,4,529.09,2116.36,Pune,Credit Card,58,Male
+ORD00079,05-12-2025,Children's Book,Books,5,262.55,1312.75,Aurangabad,Cash,57,Male
+ORD00080,12-09-2025,Moisturizer,Beauty,2,322.82,645.64,Nashik,Debit Card,53,Female
+ORD00081,26-02-2025,USB Drive,Electronics,3,522.42,1567.26,Mumbai,UPI,18,Female
+ORD00082,05-07-2025,Jacket,Clothing,5,2554.75,12773.75,Mumbai,UPI,47,Male
+ORD00083,16-09-2025,Sneakers,Clothing,3,1868.32,5604.96,Thane,UPI,54,Other
+ORD00084,03-04-2025,Headphones,Electronics,3,1584.17,4752.51,Nagpur,Net Banking,45,Male
+ORD00085,20-04-2025,Sneakers,Clothing,3,2030.19,6090.57,Nashik,Cash,30,Female
+ORD00086,10-09-2025,Novel,Books,1,299.5,299.5,Navi Mumbai,Net Banking,40,Male
+ORD00087,12-04-2025,Face Wash,Beauty,5,191.23,956.15,Nashik,Debit Card,55,Female
+ORD00088,03-11-2025,Children's Book,Books,3,244.46,733.38,Pune,Net Banking,46,Male
+ORD00089,02-06-2025,Face Wash,Beauty,2,197.97,395.94,Pune,Credit Card,22,Female
+ORD00090,03-08-2025,Cookware Set,Home & Kitchen,4,1852.23,7408.92,Nagpur,Cash,33,Female
+ORD00091,07-06-2025,Jacket,Clothing,1,2561.98,2561.98,Nashik,Credit Card,64,Female
+ORD00092,07-11-2025,Cookware Set,Home & Kitchen,5,1950.5,9752.5,Nashik,Cash,42,Female
+ORD00093,02-11-2025,Jeans,Clothing,3,1297.48,3892.44,Mumbai,UPI,20,Female
+ORD00094,26-07-2025,USB Drive,Electronics,1,477.11,477.11,Thane,Debit Card,26,Male
+ORD00095,06-01-2025,Headphones,Electronics,5,1597.09,7985.45,Nagpur,Net Banking,37,Male
+ORD00096,05-07-2025,T-Shirt,Clothing,4,461.04,1844.16,Thane,Debit Card,64,Other
+ORD00097,24-04-2025,Bedsheet,Home & Kitchen,3,1036.5,3109.5,Pune,Cash,54,Female
+ORD00098,04-10-2025,Jeans,Clothing,1,1223.41,1223.41,Nashik,Debit Card,25,Male
+ORD00099,28-12-2025,Bedsheet,Home & Kitchen,5,1010.18,5050.9,Pune,Net Banking,56,Male
+ORD00100,30-04-2025,Sunscreen,Beauty,3,488.28,1464.84,Mumbai,Net Banking,54,Male
+ORD00101,24-02-2025,Mixer Grinder,Home & Kitchen,5,2339.53,11697.65,Pune,Net Banking,63,Male
+ORD00102,30-12-2025,Wireless Mouse,Electronics,2,597.83,1195.66,Nashik,Cash,41,Male
+ORD00103,04-11-2025,T-Shirt,Clothing,5,512.73,2563.65,Nashik,Cash,37,Female
+ORD00104,29-09-2025,Cookbook,Books,1,388.36,388.36,Nashik,Net Banking,34,Female
+ORD00105,08-10-2025,Jeans,Clothing,3,1390.45,4171.35,Thane,Debit Card,38,Female
+ORD00106,01-08-2025,Face Wash,Beauty,5,192.66,963.3,Navi Mumbai,Net Banking,43,Male
+ORD00107,01-12-2025,Keyboard,Electronics,5,922.52,4612.6,Navi Mumbai,UPI,18,Male
+ORD00108,10-09-2025,Jeans,Clothing,1,1410.05,1410.05,Navi Mumbai,Debit Card,32,Female
+ORD00109,12-04-2025,Water Bottle,Home & Kitchen,3,415.2,1245.6,Nashik,Cash,52,Female
+ORD00110,26-08-2025,Shampoo,Beauty,3,314.63,943.89,Kolhapur,Debit Card,52,Female
+ORD00111,13-11-2025,Children's Book,Books,3,229.78,689.34,Nashik,Cash,56,Female
+ORD00112,09-02-2025,Bedsheet,Home & Kitchen,4,1092.87,4371.48,Kolhapur,UPI,31,Female
+ORD00113,07-05-2025,Sunscreen,Beauty,4,461.46,1845.84,Thane,UPI,42,Male
+ORD00114,29-04-2025,Children's Book,Books,5,247.26,1236.3,Kolhapur,Credit Card,37,Female
+ORD00115,22-07-2025,Novel,Books,2,317.06,634.12,Thane,Net Banking,39,Male
+ORD00116,15-05-2025,Face Wash,Beauty,2,181.04,362.08,Mumbai,Net Banking,50,Female
+ORD00117,12-11-2025,Children's Book,Books,1,260.92,260.92,Navi Mumbai,Net Banking,36,Male
+ORD00118,11-06-2025,Wireless Mouse,Electronics,4,641.9,2567.6,Mumbai,Net Banking,42,Female
+ORD00119,27-05-2025,Water Bottle,Home & Kitchen,4,430.57,1722.28,Nashik,Cash,30,Female
+ORD00120,26-11-2025,Jacket,Clothing,2,2675.6,5351.2,Thane,Cash,46,Male
+ORD00121,20-11-2025,Keyboard,Electronics,3,842.83,2528.49,Nagpur,UPI,50,Female
+ORD00122,21-08-2025,Jeans,Clothing,5,1428.57,7142.85,Thane,Cash,37,Male
+ORD00123,31-12-2025,Headphones,Electronics,1,1559.22,1559.22,Nagpur,Debit Card,20,Female
+ORD00124,07-02-2025,T-Shirt,Clothing,3,462.51,1387.53,Thane,UPI,21,Male
+ORD00125,15-06-2025,Water Bottle,Home & Kitchen,2,409.74,819.48,Kolhapur,Credit Card,39,Female
+ORD00126,24-12-2025,Bedsheet,Home & Kitchen,4,1007.16,4028.64,Thane,Credit Card,61,Male
+ORD00127,28-11-2025,Mixer Grinder,Home & Kitchen,5,2513.77,12568.85,Kolhapur,Cash,28,Female
+ORD00128,20-04-2025,Water Bottle,Home & Kitchen,2,378.36,756.72,Thane,UPI,25,Female
+ORD00129,24-07-2025,Keyboard,Electronics,1,951.5,951.5,Nashik,Cash,48,Male
+ORD00130,04-04-2025,Bedsheet,Home & Kitchen,5,1033.88,5169.4,Aurangabad,Cash,61,Female
+ORD00131,25-07-2025,Water Bottle,Home & Kitchen,1,367.23,367.23,Navi Mumbai,Cash,33,Female
+ORD00132,09-12-2025,Shampoo,Beauty,3,271.24,813.72,Kolhapur,Cash,22,Male
+ORD00133,24-01-2025,Wireless Mouse,Electronics,3,593.62,1780.86,Thane,Debit Card,55,Male
+ORD00134,11-10-2025,Sneakers,Clothing,1,1952.82,1952.82,Mumbai,Net Banking,51,Male
+ORD00135,24-05-2025,Moisturizer,Beauty,3,343.18,1029.54,Pune,UPI,31,Female
+ORD00136,11-04-2025,Wireless Mouse,Electronics,1,599.98,599.98,Navi Mumbai,UPI,33,Male
+ORD00137,04-11-2025,Bedsheet,Home & Kitchen,3,951.12,2853.36,Pune,Credit Card,46,Male
+ORD00138,29-09-2025,Sneakers,Clothing,4,1890.36,7561.44,Thane,Credit Card,62,Male
+ORD00139,17-09-2025,Mixer Grinder,Home & Kitchen,5,2324.3,11621.5,Nashik,UPI,33,Female
+ORD00140,26-10-2025,Wireless Mouse,Electronics,1,561.66,561.66,Mumbai,UPI,23,Female
+ORD00141,27-07-2025,Water Bottle,Home & Kitchen,1,406.2,406.2,Nagpur,Net Banking,41,Female
+ORD00142,24-11-2025,Headphones,Electronics,4,1397.89,5591.56,Aurangabad,Net Banking,59,Male
+ORD00143,15-06-2025,Sneakers,Clothing,3,2040.35,6121.05,Kolhapur,Net Banking,21,Female
+ORD00144,11-02-2025,T-Shirt,Clothing,2,528.86,1057.72,Nashik,Credit Card,28,Male
+ORD00145,29-01-2025,Business Book,Books,5,452.08,2260.4,Nagpur,Credit Card,36,Male
+ORD00146,21-04-2025,Headphones,Electronics,4,1561.39,6245.56,Nagpur,Net Banking,33,Female
+ORD00147,15-02-2025,Headphones,Electronics,2,1392.19,2784.38,Nagpur,Cash,20,Female
+ORD00148,04-12-2025,Wireless Mouse,Electronics,5,539.58,2697.9,Mumbai,Debit Card,65,Female
+ORD00149,24-11-2025,T-Shirt,Clothing,3,536.96,1610.88,Navi Mumbai,Debit Card,25,Male
+ORD00150,18-02-2025,Cookbook,Books,1,406.55,406.55,Thane,Credit Card,49,Female
+ORD00151,06-08-2025,Wireless Mouse,Electronics,1,566.81,566.81,Aurangabad,Net Banking,58,Female
+ORD00152,02-10-2025,T-Shirt,Clothing,3,488.64,1465.92,Nagpur,Debit Card,52,Female
+ORD00153,25-12-2025,Sneakers,Clothing,4,1966.73,7866.92,Kolhapur,Debit Card,63,Female
+ORD00154,09-12-2025,Keyboard,Electronics,3,882.45,2647.35,Mumbai,Cash,60,Male
+ORD00155,24-02-2025,Headphones,Electronics,3,1637.37,4912.11,Thane,UPI,50,Female
+ORD00156,06-05-2025,USB Drive,Electronics,5,470.27,2351.35,Navi Mumbai,Net Banking,53,Female
+ORD00157,08-07-2025,Business Book,Books,3,523.12,1569.36,Nagpur,Cash,43,Female
+ORD00158,13-09-2025,Business Book,Books,1,539.32,539.32,Aurangabad,Net Banking,56,Male
+ORD00159,29-09-2025,Wireless Mouse,Electronics,3,541.87,1625.61,Pune,Net Banking,65,Female
+ORD00160,17-08-2025,Sneakers,Clothing,5,1956.87,9784.35,Thane,Credit Card,47,Female
+ORD00161,08-08-2025,Jeans,Clothing,1,1412.11,1412.11,Nashik,Debit Card,21,Male
+ORD00162,02-05-2025,Keyboard,Electronics,2,832.67,1665.34,Pune,Credit Card,50,Male
+ORD00163,30-03-2025,USB Drive,Electronics,4,458.97,1835.88,Navi Mumbai,Cash,46,Male
+ORD00164,24-06-2025,Moisturizer,Beauty,2,327.07,654.14,Nashik,UPI,40,Male
+ORD00165,25-06-2025,Wireless Mouse,Electronics,1,654.03,654.03,Pune,Cash,50,Male
+ORD00166,25-04-2025,Water Bottle,Home & Kitchen,2,382.62,765.24,Aurangabad,Credit Card,60,Female
+ORD00167,25-12-2025,USB Drive,Electronics,4,544.21,2176.84,Nashik,UPI,37,Male
+ORD00168,26-10-2025,Wireless Mouse,Electronics,3,550.72,1652.16,Aurangabad,Cash,47,Female
+ORD00169,03-04-2025,Water Bottle,Home & Kitchen,1,371.89,371.89,Mumbai,Net Banking,35,Female
+ORD00170,01-11-2025,Cookware Set,Home & Kitchen,2,1752.68,3505.36,Navi Mumbai,UPI,54,Female
+ORD00171,10-12-2025,Wireless Mouse,Electronics,4,553.55,2214.2,Pune,Net Banking,52,Male
+ORD00172,26-08-2025,Wireless Mouse,Electronics,5,560.6,2803,Navi Mumbai,UPI,39,Male
+ORD00173,07-11-2025,Sunscreen,Beauty,1,536.38,536.38,Nagpur,Credit Card,43,Male
+ORD00174,14-01-2025,Mixer Grinder,Home & Kitchen,2,2329.69,4659.38,Kolhapur,UPI,60,Female
+ORD00175,29-06-2025,Jacket,Clothing,2,2513.87,5027.74,Navi Mumbai,Debit Card,57,Male
+ORD00176,02-02-2025,Mixer Grinder,Home & Kitchen,1,2725.03,2725.03,Navi Mumbai,Net Banking,63,Male
+ORD00177,17-03-2025,Jacket,Clothing,5,2375.64,11878.2,Aurangabad,UPI,36,Female
+ORD00178,27-01-2025,Wireless Mouse,Electronics,2,611.95,1223.9,Navi Mumbai,Net Banking,37,Female
+ORD00179,27-12-2025,Novel,Books,5,318.03,1590.15,Aurangabad,Cash,35,Male
+ORD00180,24-07-2025,Bedsheet,Home & Kitchen,5,967.31,4836.55,Mumbai,Net Banking,34,Female
+ORD00181,02-10-2025,Cookbook,Books,1,422.43,422.43,Aurangabad,Credit Card,28,Male
+ORD00182,21-07-2025,Moisturizer,Beauty,4,314.26,1257.04,Kolhapur,Credit Card,31,Male
+ORD00183,17-02-2025,Jeans,Clothing,4,1208.67,4834.68,Aurangabad,Cash,41,Female
+ORD00184,20-09-2025,Jacket,Clothing,2,2612.04,5224.08,Navi Mumbai,Credit Card,49,Female
+ORD00185,13-12-2025,Keyboard,Electronics,4,870.72,3482.88,Nashik,UPI,22,Female
+ORD00186,16-04-2025,Cookbook,Books,1,394.98,394.98,Kolhapur,Cash,53,Other
+ORD00187,29-08-2025,Cookware Set,Home & Kitchen,4,1727.93,6911.72,Thane,Net Banking,52,Female
+ORD00188,24-02-2025,Jeans,Clothing,3,1315.06,3945.18,Nagpur,Debit Card,42,Female
+ORD00189,25-08-2025,Jeans,Clothing,1,1258.05,1258.05,Nagpur,Debit Card,40,Male
+ORD00190,17-02-2025,Bedsheet,Home & Kitchen,1,1032.46,1032.46,Nagpur,Cash,49,Male
+ORD00191,14-03-2025,Moisturizer,Beauty,5,368.41,1842.05,Kolhapur,Net Banking,54,Female
+ORD00192,07-10-2025,T-Shirt,Clothing,1,476.56,476.56,Pune,Credit Card,31,Female
+ORD00193,15-03-2025,Shampoo,Beauty,4,301.52,1206.08,Nashik,Cash,54,Female
+ORD00194,24-01-2025,Sunscreen,Beauty,2,511.52,1023.04,Thane,Cash,64,Male
+ORD00195,09-01-2025,Cookware Set,Home & Kitchen,3,1763.04,5289.12,Nagpur,Net Banking,64,Male
+ORD00196,30-04-2025,Novel,Books,5,320.17,1600.85,Thane,Net Banking,44,Male
+ORD00197,02-05-2025,Cookware Set,Home & Kitchen,5,1706.96,8534.8,Navi Mumbai,Net Banking,63,Female
+ORD00198,30-12-2025,Shampoo,Beauty,5,313.65,1568.25,Aurangabad,Credit Card,54,Male
+ORD00199,29-03-2025,Business Book,Books,4,513.45,2053.8,Nagpur,Credit Card,32,Female
+ORD00200,28-08-2025,Jeans,Clothing,3,1225.96,3677.88,Aurangabad,Credit Card,59,Male
+ORD00201,03-05-2025,T-Shirt,Clothing,1,528.69,528.69,Pune,Net Banking,29,Female
+ORD00202,14-06-2025,Headphones,Electronics,1,1466.04,1466.04,Kolhapur,Credit Card,27,Male
+ORD00203,15-08-2025,Keyboard,Electronics,3,976.84,2930.52,Thane,Net Banking,48,Male
+ORD00204,23-06-2025,Headphones,Electronics,4,1430.24,5720.96,Kolhapur,Credit Card,49,Male
+ORD00205,06-03-2025,Children's Book,Books,3,245.19,735.57,Nashik,Debit Card,29,Female
+ORD00206,09-01-2025,Bedsheet,Home & Kitchen,4,1097.31,4389.24,Kolhapur,UPI,42,Male
+ORD00207,23-12-2025,Cookbook,Books,1,384.5,384.5,Thane,Debit Card,26,Male
+ORD00208,29-04-2025,Mixer Grinder,Home & Kitchen,4,2425.7,9702.8,Aurangabad,Cash,57,Female
+ORD00209,28-04-2025,Moisturizer,Beauty,2,366.37,732.74,Nagpur,Net Banking,26,Female
+ORD00210,01-12-2025,Mixer Grinder,Home & Kitchen,1,2688.46,2688.46,Mumbai,Credit Card,25,Female
+ORD00211,20-01-2025,T-Shirt,Clothing,3,449.15,1347.45,Mumbai,Debit Card,58,Male
+ORD00212,05-05-2025,Business Book,Books,4,531.25,2125,Pune,UPI,25,Female
+ORD00213,16-07-2025,Sneakers,Clothing,3,2126.62,6379.86,Mumbai,UPI,38,Female
+ORD00214,15-03-2025,Jacket,Clothing,2,2625.11,5250.22,Nashik,Debit Card,54,Male
+ORD00215,22-03-2025,Jeans,Clothing,3,1223.24,3669.72,Nagpur,Cash,64,Male
+ORD00216,17-01-2025,Keyboard,Electronics,1,840.63,840.63,Aurangabad,UPI,37,Other
+ORD00217,27-08-2025,Face Wash,Beauty,5,196.96,984.8,Kolhapur,Credit Card,26,Female
+ORD00218,14-08-2025,Shampoo,Beauty,5,280.6,1403,Pune,Debit Card,49,Male
+ORD00219,26-07-2025,Jacket,Clothing,1,2524.44,2524.44,Navi Mumbai,Net Banking,35,Male
+ORD00220,16-05-2025,Cookbook,Books,1,407.1,407.1,Navi Mumbai,Cash,30,Male
+ORD00221,29-10-2025,Sneakers,Clothing,1,2023.48,2023.48,Pune,Credit Card,54,Female
+ORD00222,22-08-2025,T-Shirt,Clothing,2,505.4,1010.8,Nagpur,Net Banking,21,Male
+ORD00223,23-11-2025,Wireless Mouse,Electronics,3,616.53,1849.59,Aurangabad,UPI,58,Male
+ORD00224,23-06-2025,Shampoo,Beauty,3,325.05,975.15,Mumbai,Credit Card,28,Female
+ORD00225,06-09-2025,Water Bottle,Home & Kitchen,2,376.18,752.36,Kolhapur,UPI,37,Male
+ORD00226,26-08-2025,Jacket,Clothing,1,2316.42,2316.42,Aurangabad,UPI,33,Male
+ORD00227,11-05-2025,T-Shirt,Clothing,3,475.53,1426.59,Kolhapur,Cash,38,Female
+ORD00228,02-10-2025,T-Shirt,Clothing,5,459.06,2295.3,Mumbai,UPI,23,Female
+ORD00229,08-11-2025,Water Bottle,Home & Kitchen,1,419.29,419.29,Mumbai,Net Banking,51,Other
+ORD00230,23-01-2025,Mixer Grinder,Home & Kitchen,1,2449.65,2449.65,Thane,Debit Card,63,Female
+ORD00231,04-03-2025,Shampoo,Beauty,5,327.62,1638.1,Thane,Debit Card,43,Female
+ORD00232,18-10-2025,Bedsheet,Home & Kitchen,2,978.53,1957.06,Nashik,Debit Card,24,Male
+ORD00233,07-02-2025,T-Shirt,Clothing,5,535.54,2677.7,Mumbai,Debit Card,45,Male
+ORD00234,19-05-2025,Jeans,Clothing,3,1333.59,4000.77,Kolhapur,Net Banking,62,Male
+ORD00235,14-06-2025,Business Book,Books,2,505.78,1011.56,Navi Mumbai,Debit Card,31,Female
+ORD00236,26-01-2025,Business Book,Books,2,483.6,967.2,Navi Mumbai,Debit Card,22,Male
+ORD00237,23-05-2025,Cookware Set,Home & Kitchen,5,1696.29,8481.45,Aurangabad,Debit Card,54,Male
+ORD00238,08-03-2025,Cookbook,Books,5,433.11,2165.55,Nashik,UPI,50,Male
+ORD00239,24-05-2025,Children's Book,Books,5,270.11,1350.55,Kolhapur,Debit Card,64,Male
+ORD00240,31-01-2025,USB Drive,Electronics,4,505.25,2021,Mumbai,Credit Card,53,Female
+ORD00241,20-06-2025,Jeans,Clothing,2,1170.52,2341.04,Nashik,Cash,62,Female
+ORD00242,22-01-2025,Sneakers,Clothing,2,2025.02,4050.04,Thane,Cash,25,Female
+ORD00243,15-07-2025,Keyboard,Electronics,2,982.68,1965.36,Mumbai,Net Banking,56,Male
+ORD00244,31-07-2025,Shampoo,Beauty,3,321.61,964.83,Thane,UPI,22,Female
+ORD00245,26-07-2025,Mixer Grinder,Home & Kitchen,2,2739.98,5479.96,Nagpur,Cash,61,Male
+ORD00246,18-11-2025,Water Bottle,Home & Kitchen,3,368.55,1105.65,Aurangabad,Credit Card,58,Male
+ORD00247,16-11-2025,Business Book,Books,4,451.49,1805.96,Kolhapur,Debit Card,42,Female
+ORD00248,11-02-2025,Cookware Set,Home & Kitchen,1,1859.57,1859.57,Navi Mumbai,Cash,47,Male
+ORD00249,10-07-2025,Mixer Grinder,Home & Kitchen,5,2356.22,11781.1,Navi Mumbai,UPI,45,Male
+ORD00250,14-03-2025,Wireless Mouse,Electronics,1,652.59,652.59,Navi Mumbai,Credit Card,56,Female
+ORD00251,26-08-2025,T-Shirt,Clothing,3,536.07,1608.21,Kolhapur,Cash,35,Male
+ORD00252,15-05-2025,Mixer Grinder,Home & Kitchen,1,2516.29,2516.29,Kolhapur,Debit Card,64,Male
+ORD00253,21-04-2025,Jacket,Clothing,3,2700.41,8101.23,Navi Mumbai,UPI,32,Female
+ORD00254,02-01-2025,Shampoo,Beauty,1,272.68,272.68,Aurangabad,Net Banking,25,Female
+ORD00255,27-07-2025,USB Drive,Electronics,5,488.74,2443.7,Aurangabad,Debit Card,65,Female
+ORD00256,07-07-2025,Keyboard,Electronics,2,843.15,1686.3,Thane,UPI,64,Male
+ORD00257,16-09-2025,Children's Book,Books,1,265.43,265.43,Pune,Net Banking,47,Female
+ORD00258,20-04-2025,Sunscreen,Beauty,1,528.52,528.52,Nashik,Credit Card,44,Female
+ORD00259,15-09-2025,Sneakers,Clothing,3,1992.18,5976.54,Navi Mumbai,Debit Card,59,Male
+ORD00260,22-09-2025,T-Shirt,Clothing,2,458.06,916.12,Mumbai,Debit Card,55,Male
+ORD00261,12-08-2025,USB Drive,Electronics,5,452.61,2263.05,Thane,UPI,59,Female
+ORD00262,31-08-2025,Sneakers,Clothing,2,2005.3,4010.6,Kolhapur,Net Banking,64,Male
+ORD00263,26-02-2025,Water Bottle,Home & Kitchen,2,364.15,728.3,Pune,UPI,25,Female
+ORD00264,18-10-2025,Mixer Grinder,Home & Kitchen,3,2561.97,7685.91,Pune,Debit Card,56,Female
+ORD00265,13-12-2025,Children's Book,Books,4,241.43,965.72,Mumbai,UPI,40,Male
+ORD00266,29-04-2025,Jacket,Clothing,5,2438.18,12190.9,Aurangabad,UPI,43,Male
+ORD00267,27-08-2025,Business Book,Books,1,516.25,516.25,Pune,Debit Card,56,Female
+ORD00268,06-10-2025,Sneakers,Clothing,1,2173.58,2173.58,Pune,Net Banking,23,Female
+ORD00269,05-07-2025,Cookware Set,Home & Kitchen,1,1776.21,1776.21,Thane,Net Banking,22,Male
+ORD00270,25-09-2025,Bedsheet,Home & Kitchen,3,912.45,2737.35,Nashik,Credit Card,28,Female
+ORD00271,25-12-2025,Novel,Books,3,297.15,891.45,Navi Mumbai,Net Banking,31,Male
+ORD00272,30-09-2025,Bedsheet,Home & Kitchen,5,1028.61,5143.05,Aurangabad,Net Banking,38,Female
+ORD00273,19-08-2025,USB Drive,Electronics,4,483.8,1935.2,Navi Mumbai,Cash,55,Female
+ORD00274,18-08-2025,Cookbook,Books,2,393.02,786.04,Aurangabad,Credit Card,42,Female
+ORD00275,20-03-2025,Mixer Grinder,Home & Kitchen,3,2621.55,7864.65,Thane,UPI,36,Female
+ORD00276,25-09-2025,Wireless Mouse,Electronics,4,646.28,2585.12,Thane,Debit Card,23,Female
+ORD00277,14-03-2025,Face Wash,Beauty,2,190.69,381.38,Thane,Debit Card,27,Female
+ORD00278,02-10-2025,Face Wash,Beauty,4,186.07,744.28,Thane,Cash,40,Male
+ORD00279,23-04-2025,Jeans,Clothing,2,1202.17,2404.34,Nagpur,Debit Card,57,Male
+ORD00280,01-08-2025,Business Book,Books,3,527.16,1581.48,Nagpur,UPI,57,Male
+ORD00281,29-03-2025,Bedsheet,Home & Kitchen,2,971.19,1942.38,Pune,UPI,29,Male
+ORD00282,05-03-2025,Cookware Set,Home & Kitchen,2,1889.59,3779.18,Thane,UPI,31,Male
+ORD00283,21-04-2025,Keyboard,Electronics,4,875.5,3502,Kolhapur,Credit Card,43,Female
+ORD00284,09-01-2025,Business Book,Books,3,513.27,1539.81,Aurangabad,Cash,65,Female
+ORD00285,28-11-2025,Bedsheet,Home & Kitchen,5,1057.23,5286.15,Thane,Debit Card,54,Male
+ORD00286,29-06-2025,Headphones,Electronics,3,1497.3,4491.9,Navi Mumbai,Debit Card,45,Female
+ORD00287,09-02-2025,Children's Book,Books,5,235.31,1176.55,Pune,Cash,21,Other
+ORD00288,28-02-2025,Sunscreen,Beauty,5,537.91,2689.55,Thane,UPI,37,Male
+ORD00289,09-12-2025,Sunscreen,Beauty,4,483.5,1934,Kolhapur,Debit Card,47,Male
+ORD00290,18-08-2025,T-Shirt,Clothing,1,454.88,454.88,Kolhapur,Cash,37,Female
+ORD00291,12-03-2025,Headphones,Electronics,4,1401.7,5606.8,Pune,Net Banking,64,Female
+ORD00292,31-12-2025,Sneakers,Clothing,1,2070.05,2070.05,Aurangabad,Debit Card,29,Male
+ORD00293,07-04-2025,Sneakers,Clothing,3,1971,5913,Kolhapur,Debit Card,51,Female
+ORD00294,27-09-2025,Jacket,Clothing,4,2438.18,9752.72,Aurangabad,Net Banking,28,Male
+ORD00295,29-12-2025,Cookware Set,Home & Kitchen,2,1633,3266,Pune,Credit Card,61,Female
+ORD00296,04-05-2025,Bedsheet,Home & Kitchen,1,978.07,978.07,Nagpur,UPI,35,Male
+ORD00297,30-05-2025,Wireless Mouse,Electronics,3,596.53,1789.59,Nagpur,Net Banking,43,Female
+ORD00298,27-08-2025,Novel,Books,5,293.73,1468.65,Navi Mumbai,Credit Card,62,Male
+ORD00299,03-10-2025,Sunscreen,Beauty,1,458.86,458.86,Navi Mumbai,Debit Card,24,Male
+ORD00300,12-03-2025,Jeans,Clothing,3,1244.29,3732.87,Aurangabad,Credit Card,61,Female
+ORD00301,11-04-2025,Business Book,Books,4,474.52,1898.08,Thane,UPI,19,Male
+ORD00302,19-08-2025,Shampoo,Beauty,2,319.73,639.46,Navi Mumbai,Credit Card,19,Male
+ORD00303,13-10-2025,Cookbook,Books,3,375.93,1127.79,Navi Mumbai,Net Banking,47,Female
+ORD00304,10-11-2025,Face Wash,Beauty,2,181.11,362.22,Aurangabad,Debit Card,32,Female
+ORD00305,16-02-2025,Bedsheet,Home & Kitchen,4,1055.11,4220.44,Pune,Net Banking,23,Male
+ORD00306,26-12-2025,Novel,Books,5,300.64,1503.2,Nagpur,UPI,57,Female
+ORD00307,13-02-2025,Business Book,Books,3,472.89,1418.67,Thane,Debit Card,50,Female
+ORD00308,17-12-2025,Bedsheet,Home & Kitchen,2,1056.32,2112.64,Kolhapur,Cash,29,Female
+ORD00309,10-07-2025,Jacket,Clothing,2,2343.33,4686.66,Thane,Cash,39,Female
+ORD00310,24-05-2025,Shampoo,Beauty,5,327.95,1639.75,Thane,Credit Card,48,Male
+ORD00311,04-02-2025,USB Drive,Electronics,2,490.26,980.52,Nashik,Net Banking,22,Female
+ORD00312,25-06-2025,Jacket,Clothing,2,2738.89,5477.78,Kolhapur,Cash,32,Female
+ORD00313,10-08-2025,Jeans,Clothing,2,1340.17,2680.34,Kolhapur,Net Banking,63,Male
+ORD00314,09-08-2025,USB Drive,Electronics,4,505.34,2021.36,Navi Mumbai,Debit Card,20,Male
+ORD00315,12-01-2025,Shampoo,Beauty,4,292.81,1171.24,Navi Mumbai,Net Banking,59,Female
+ORD00316,23-03-2025,Headphones,Electronics,2,1608.91,3217.82,Nagpur,Cash,60,Male
+ORD00317,12-10-2025,Cookware Set,Home & Kitchen,3,1707.5,5122.5,Aurangabad,Credit Card,37,Female
+ORD00318,16-05-2025,Keyboard,Electronics,4,923.37,3693.48,Nagpur,Net Banking,43,Male
+ORD00319,22-08-2025,Keyboard,Electronics,1,845.34,845.34,Mumbai,Net Banking,58,Male
+ORD00320,07-04-2025,Shampoo,Beauty,3,277.53,832.59,Kolhapur,UPI,61,Female
+ORD00321,03-03-2025,Moisturizer,Beauty,5,328.88,1644.4,Pune,UPI,26,Male
+ORD00322,11-01-2025,Wireless Mouse,Electronics,5,547.97,2739.85,Pune,Debit Card,57,Female
+ORD00323,19-08-2025,USB Drive,Electronics,1,537.14,537.14,Thane,Cash,39,Female
+ORD00324,03-03-2025,Mixer Grinder,Home & Kitchen,3,2422.06,7266.18,Navi Mumbai,UPI,26,Female
+ORD00325,26-02-2025,Business Book,Books,3,473.69,1421.07,Aurangabad,Net Banking,51,Female
+ORD00326,18-11-2025,Jacket,Clothing,5,2287.96,11439.8,Aurangabad,Credit Card,32,Male
+ORD00327,29-11-2025,Cookware Set,Home & Kitchen,4,1725.25,6901,Kolhapur,Debit Card,29,Female
+ORD00328,26-02-2025,Jeans,Clothing,4,1327.67,5310.68,Nashik,Net Banking,24,Female
+ORD00329,07-09-2025,Cookbook,Books,3,365.01,1095.03,Aurangabad,Debit Card,20,Male
+ORD00330,31-10-2025,Bedsheet,Home & Kitchen,2,987.2,1974.4,Nagpur,Cash,29,Female
+ORD00331,05-10-2025,Cookware Set,Home & Kitchen,1,1789.13,1789.13,Nashik,Debit Card,21,Female
+ORD00332,23-08-2025,Children's Book,Books,3,250.43,751.29,Nashik,Net Banking,53,Male
+ORD00333,25-06-2025,Cookware Set,Home & Kitchen,4,1950.72,7802.88,Thane,Debit Card,44,Female
+ORD00334,05-06-2025,Cookware Set,Home & Kitchen,3,1684.18,5052.54,Pune,UPI,22,Male
+ORD00335,08-10-2025,Business Book,Books,2,522.3,1044.6,Nagpur,UPI,28,Male
+ORD00336,27-05-2025,Water Bottle,Home & Kitchen,5,372.46,1862.3,Nagpur,UPI,33,Female
+ORD00337,05-10-2025,Jeans,Clothing,2,1229.03,2458.06,Pune,Net Banking,63,Female
+ORD00338,22-10-2025,Mixer Grinder,Home & Kitchen,5,2748.31,13741.55,Pune,Cash,31,Male
+ORD00339,01-08-2025,Business Book,Books,4,548.25,2193,Mumbai,Net Banking,23,Female
+ORD00340,28-04-2025,Cookware Set,Home & Kitchen,5,1954.77,9773.85,Pune,Credit Card,43,Female
+ORD00341,10-06-2025,Jeans,Clothing,5,1425.16,7125.8,Navi Mumbai,Net Banking,62,Female
+ORD00342,21-08-2025,Shampoo,Beauty,2,288.29,576.58,Nashik,UPI,44,Female
+ORD00343,30-05-2025,Cookware Set,Home & Kitchen,3,1888.65,5665.95,Aurangabad,Credit Card,38,Male
+ORD00344,26-12-2025,Jeans,Clothing,1,1390.07,1390.07,Navi Mumbai,UPI,28,Female
+ORD00345,08-01-2025,Sunscreen,Beauty,1,480.67,480.67,Mumbai,UPI,30,Male
+ORD00346,03-12-2025,Cookbook,Books,1,363.48,363.48,Nashik,Net Banking,19,Female
+ORD00347,10-08-2025,Wireless Mouse,Electronics,3,592.37,1777.11,Nagpur,Debit Card,36,Female
+ORD00348,20-07-2025,Headphones,Electronics,5,1352.4,6762,Pune,Debit Card,61,Female
+ORD00349,16-03-2025,Novel,Books,5,308.57,1542.85,Pune,Cash,27,Female
+ORD00350,03-12-2025,Bedsheet,Home & Kitchen,3,959.09,2877.27,Navi Mumbai,Cash,35,Male
+ORD00351,09-05-2025,Novel,Books,1,311.64,311.64,Thane,UPI,33,Female
+ORD00352,10-07-2025,Water Bottle,Home & Kitchen,4,421.08,1684.32,Aurangabad,Credit Card,52,Male
+ORD00353,09-08-2025,Moisturizer,Beauty,4,331.24,1324.96,Pune,UPI,59,Male
+ORD00354,20-02-2025,T-Shirt,Clothing,3,466.73,1400.19,Aurangabad,Debit Card,62,Male
+ORD00355,07-01-2025,Children's Book,Books,3,270.16,810.48,Nashik,Net Banking,42,Female
+ORD00356,26-03-2025,Headphones,Electronics,5,1620.69,8103.45,Kolhapur,UPI,44,Male
+ORD00357,13-08-2025,USB Drive,Electronics,1,510.45,510.45,Navi Mumbai,Debit Card,48,Male
+ORD00358,14-09-2025,Cookware Set,Home & Kitchen,4,1646.09,6584.36,Nagpur,UPI,58,Male
+ORD00359,24-04-2025,Cookbook,Books,3,436.46,1309.38,Pune,Cash,19,Male
+ORD00360,05-08-2025,Jeans,Clothing,2,1289.63,2579.26,Kolhapur,Debit Card,53,Male
+ORD00361,19-05-2025,Shampoo,Beauty,4,320.03,1280.12,Aurangabad,Credit Card,46,Female
+ORD00362,24-08-2025,Novel,Books,2,310.54,621.08,Kolhapur,Debit Card,25,Male
+ORD00363,05-05-2025,Cookbook,Books,5,364.79,1823.95,Navi Mumbai,Debit Card,54,Male
+ORD00364,24-09-2025,Cookbook,Books,2,426.59,853.18,Nashik,Credit Card,58,Male
+ORD00365,26-08-2025,Shampoo,Beauty,2,276.03,552.06,Thane,Net Banking,51,Male
+ORD00366,18-02-2025,Mixer Grinder,Home & Kitchen,1,2592.73,2592.73,Mumbai,Debit Card,31,Male
+ORD00367,01-06-2025,Jeans,Clothing,4,1304.68,5218.72,Thane,Credit Card,38,Female
+ORD00368,05-10-2025,Keyboard,Electronics,2,926.21,1852.42,Mumbai,Debit Card,18,Male
+ORD00369,24-05-2025,Jeans,Clothing,2,1379.62,2759.24,Mumbai,Credit Card,58,Female
+ORD00370,04-10-2025,Water Bottle,Home & Kitchen,1,400.21,400.21,Thane,Net Banking,38,Male
+ORD00371,10-12-2025,USB Drive,Electronics,5,451.32,2256.6,Kolhapur,Cash,29,Male
+ORD00372,09-04-2025,Children's Book,Books,4,255.59,1022.36,Kolhapur,Net Banking,65,Male
+ORD00373,19-07-2025,Jeans,Clothing,5,1207.22,6036.1,Aurangabad,Credit Card,22,Male
+ORD00374,07-07-2025,Face Wash,Beauty,3,212.64,637.92,Thane,UPI,41,Female
+ORD00375,17-02-2025,Jeans,Clothing,1,1182.54,1182.54,Nagpur,Net Banking,65,Female
+ORD00376,04-01-2025,T-Shirt,Clothing,1,491.38,491.38,Kolhapur,Cash,42,Female
+ORD00377,04-07-2025,Moisturizer,Beauty,5,374.1,1870.5,Pune,Debit Card,24,Female
+ORD00378,29-11-2025,Sneakers,Clothing,2,2011.28,4022.56,Kolhapur,Credit Card,26,Male
+ORD00379,24-05-2025,Wireless Mouse,Electronics,3,563.08,1689.24,Nagpur,Cash,40,Female
+ORD00380,27-05-2025,Keyboard,Electronics,2,872.97,1745.94,Thane,Credit Card,52,Male
+ORD00381,08-11-2025,Business Book,Books,1,506.18,506.18,Thane,Credit Card,20,Male
+ORD00382,22-07-2025,Sunscreen,Beauty,1,498.46,498.46,Mumbai,Net Banking,29,Female
+ORD00383,22-10-2025,T-Shirt,Clothing,2,542.6,1085.2,Pune,Cash,25,Female
+ORD00384,12-07-2025,Cookbook,Books,5,386.35,1931.75,Pune,UPI,42,Female
+ORD00385,12-08-2025,Novel,Books,3,269.94,809.82,Mumbai,Net Banking,47,Male
+ORD00386,03-05-2025,Sneakers,Clothing,1,1895.15,1895.15,Thane,Net Banking,19,Male
+ORD00387,19-05-2025,T-Shirt,Clothing,5,487.54,2437.7,Kolhapur,Credit Card,34,Male
+ORD00388,17-04-2025,Jacket,Clothing,1,2350.12,2350.12,Aurangabad,Debit Card,65,Female
+ORD00389,14-07-2025,Headphones,Electronics,4,1443.41,5773.64,Mumbai,Cash,21,Female
+ORD00390,14-02-2025,Business Book,Books,5,492.45,2462.25,Aurangabad,Cash,56,Male
+ORD00391,04-02-2025,USB Drive,Electronics,3,548.33,1644.99,Navi Mumbai,Cash,19,Female
+ORD00392,27-09-2025,Wireless Mouse,Electronics,1,631.37,631.37,Aurangabad,Net Banking,46,Female
+ORD00393,11-04-2025,T-Shirt,Clothing,4,490.43,1961.72,Aurangabad,UPI,49,Male
+ORD00394,18-01-2025,Bedsheet,Home & Kitchen,2,984.04,1968.08,Kolhapur,UPI,30,Female
+ORD00395,30-04-2025,Moisturizer,Beauty,4,349.18,1396.72,Mumbai,Debit Card,40,Female
+ORD00396,11-08-2025,T-Shirt,Clothing,1,484.22,484.22,Nashik,Debit Card,37,Female
+ORD00397,20-12-2025,Moisturizer,Beauty,4,368.87,1475.48,Navi Mumbai,Net Banking,45,Male
+ORD00398,24-03-2025,Shampoo,Beauty,3,279.26,837.78,Aurangabad,Credit Card,46,Male
+ORD00399,12-02-2025,USB Drive,Electronics,5,505.37,2526.85,Navi Mumbai,Cash,30,Female
+ORD00400,05-07-2025,Wireless Mouse,Electronics,5,547.19,2735.95,Nashik,Credit Card,30,Female
+ORD00401,09-12-2025,T-Shirt,Clothing,2,538.39,1076.78,Thane,UPI,30,Female
+ORD00402,21-06-2025,Jeans,Clothing,4,1284.1,5136.4,Pune,Cash,22,Other
+ORD00403,15-11-2025,Business Book,Books,2,497.24,994.48,Aurangabad,Net Banking,62,Male
+ORD00404,06-05-2025,Headphones,Electronics,5,1633.16,8165.8,Thane,Credit Card,35,Male
+ORD00405,11-03-2025,Business Book,Books,2,538.76,1077.52,Aurangabad,Credit Card,40,Male
+ORD00406,07-02-2025,Cookbook,Books,1,411.27,411.27,Thane,Debit Card,49,Male
+ORD00407,01-10-2025,Children's Book,Books,5,267.74,1338.7,Navi Mumbai,UPI,58,Male
+ORD00408,02-11-2025,Sneakers,Clothing,3,1917.79,5753.37,Mumbai,Debit Card,35,Male
+ORD00409,13-03-2025,Business Book,Books,1,475.24,475.24,Thane,Cash,33,Male
+ORD00410,07-01-2025,Jacket,Clothing,3,2634.88,7904.64,Navi Mumbai,Credit Card,46,Female
+ORD00411,29-11-2025,Jacket,Clothing,1,2645.78,2645.78,Thane,UPI,52,Female
+ORD00412,07-01-2025,Cookware Set,Home & Kitchen,5,1784.02,8920.1,Mumbai,Debit Card,44,Male
+ORD00413,05-07-2025,Children's Book,Books,1,260.13,260.13,Aurangabad,Net Banking,46,Female
+ORD00414,11-07-2025,Business Book,Books,4,533.18,2132.72,Aurangabad,UPI,19,Female
+ORD00415,11-11-2025,Novel,Books,1,307.87,307.87,Navi Mumbai,Debit Card,18,Male
+ORD00416,10-09-2025,Headphones,Electronics,4,1410.37,5641.48,Mumbai,Debit Card,60,Female
+ORD00417,17-04-2025,Wireless Mouse,Electronics,2,655.55,1311.1,Pune,Cash,46,Male
+ORD00418,27-01-2025,Cookbook,Books,2,362.25,724.5,Nagpur,Cash,20,Male
+ORD00419,13-12-2025,Sunscreen,Beauty,5,524.6,2623,Pune,Debit Card,29,Male
+ORD00420,24-07-2025,Water Bottle,Home & Kitchen,2,400.73,801.46,Navi Mumbai,Credit Card,46,Female
+ORD00421,29-01-2025,Children's Book,Books,5,243.26,1216.3,Mumbai,UPI,54,Male
+ORD00422,28-10-2025,Jeans,Clothing,1,1367.61,1367.61,Navi Mumbai,Cash,62,Male
+ORD00423,28-05-2025,Face Wash,Beauty,1,182.3,182.3,Thane,Credit Card,37,Male
+ORD00424,03-06-2025,Face Wash,Beauty,1,201.93,201.93,Navi Mumbai,Net Banking,45,Male
+ORD00425,20-02-2025,Sneakers,Clothing,2,1970.37,3940.74,Mumbai,Cash,28,Male
+ORD00426,29-04-2025,Sunscreen,Beauty,3,456,1368,Pune,Cash,21,Female
+ORD00427,22-09-2025,Moisturizer,Beauty,1,318.73,318.73,Kolhapur,Net Banking,51,Male
+ORD00428,18-07-2025,Moisturizer,Beauty,1,318.03,318.03,Aurangabad,Cash,29,Female
+ORD00429,18-10-2025,Business Book,Books,2,497.89,995.78,Mumbai,Debit Card,60,Male
+ORD00430,17-04-2025,Sunscreen,Beauty,5,454.26,2271.3,Navi Mumbai,UPI,60,Female
+ORD00431,07-04-2025,Sunscreen,Beauty,4,490.87,1963.48,Mumbai,Credit Card,34,Male
+ORD00432,07-10-2025,Mixer Grinder,Home & Kitchen,2,2401.78,4803.56,Thane,Net Banking,35,Male
+ORD00433,08-08-2025,Shampoo,Beauty,2,277.1,554.2,Navi Mumbai,Cash,64,Male
+ORD00434,11-02-2025,Moisturizer,Beauty,1,314.7,314.7,Mumbai,Credit Card,54,Other
+ORD00435,01-10-2025,T-Shirt,Clothing,2,456.27,912.54,Aurangabad,Debit Card,34,Male
+ORD00436,13-03-2025,Cookbook,Books,1,406.6,406.6,Kolhapur,Net Banking,30,Male
+ORD00437,22-07-2025,Water Bottle,Home & Kitchen,2,406.7,813.4,Pune,Cash,51,Female
+ORD00438,12-07-2025,Business Book,Books,5,473.78,2368.9,Nashik,Cash,32,Male
+ORD00439,06-09-2025,Bedsheet,Home & Kitchen,3,1093.82,3281.46,Navi Mumbai,Debit Card,27,Male
+ORD00440,23-12-2025,Mixer Grinder,Home & Kitchen,1,2367.4,2367.4,Nashik,UPI,21,Female
+ORD00441,14-03-2025,Novel,Books,1,314.87,314.87,Aurangabad,UPI,25,Female
+ORD00442,05-11-2025,Face Wash,Beauty,1,206.64,206.64,Nagpur,Credit Card,54,Female
+ORD00443,02-08-2025,Sunscreen,Beauty,5,481.28,2406.4,Kolhapur,Cash,27,Female
+ORD00444,03-09-2025,Face Wash,Beauty,4,196.5,786,Aurangabad,Credit Card,65,Male
+ORD00445,16-07-2025,Wireless Mouse,Electronics,4,596.77,2387.08,Aurangabad,Debit Card,20,Male
+ORD00446,07-05-2025,USB Drive,Electronics,3,507.5,1522.5,Nagpur,Cash,52,Female
+ORD00447,17-08-2025,Sneakers,Clothing,4,2014,8056,Mumbai,Cash,55,Male
+ORD00448,22-07-2025,USB Drive,Electronics,3,536.22,1608.66,Nagpur,Credit Card,22,Female
+ORD00449,25-09-2025,Wireless Mouse,Electronics,1,638.23,638.23,Navi Mumbai,Debit Card,64,Male
+ORD00450,14-01-2025,Cookware Set,Home & Kitchen,3,1930.01,5790.03,Nagpur,Credit Card,42,Male
+ORD00451,22-02-2025,T-Shirt,Clothing,4,468.36,1873.44,Pune,Credit Card,62,Female
+ORD00452,24-03-2025,Shampoo,Beauty,2,275.42,550.84,Thane,UPI,57,Male
+ORD00453,20-10-2025,Shampoo,Beauty,5,275.73,1378.65,Kolhapur,Cash,61,Male
+ORD00454,07-12-2025,Face Wash,Beauty,1,215.85,215.85,Kolhapur,Cash,43,Female
+ORD00455,27-10-2025,Novel,Books,4,298.92,1195.68,Pune,UPI,48,Female
+ORD00456,05-11-2025,Business Book,Books,5,476.76,2383.8,Mumbai,Debit Card,63,Female
+ORD00457,23-08-2025,Headphones,Electronics,4,1487.79,5951.16,Nagpur,Debit Card,59,Male
+ORD00458,12-05-2025,Headphones,Electronics,2,1599.92,3199.84,Pune,UPI,28,Female
+ORD00459,01-03-2025,Face Wash,Beauty,2,201.52,403.04,Aurangabad,Credit Card,55,Female
+ORD00460,19-01-2025,Business Book,Books,1,540.26,540.26,Kolhapur,Net Banking,57,Female
+ORD00461,22-08-2025,Cookware Set,Home & Kitchen,4,1867.54,7470.16,Nashik,UPI,19,Female
+ORD00462,01-05-2025,Face Wash,Beauty,4,194.12,776.48,Mumbai,Net Banking,42,Female
+ORD00463,04-05-2025,Keyboard,Electronics,3,854.02,2562.06,Pune,Debit Card,60,Female
+ORD00464,09-12-2025,Jeans,Clothing,1,1252.15,1252.15,Thane,Debit Card,44,Female
+ORD00465,13-12-2025,Headphones,Electronics,4,1434.61,5738.44,Nashik,Cash,65,Male
+ORD00466,25-10-2025,Keyboard,Electronics,3,814.67,2444.01,Nashik,Cash,50,Female
+ORD00467,09-08-2025,Jacket,Clothing,4,2447.05,9788.2,Navi Mumbai,UPI,52,Female
+ORD00468,29-08-2025,Wireless Mouse,Electronics,5,540.99,2704.95,Nashik,Cash,54,Female
+ORD00469,15-08-2025,Jacket,Clothing,1,2597.32,2597.32,Aurangabad,Net Banking,62,Female
+ORD00470,10-05-2025,Keyboard,Electronics,1,959.45,959.45,Mumbai,Cash,27,Male
+ORD00471,03-05-2025,Business Book,Books,5,465.67,2328.35,Pune,Debit Card,22,Female
+ORD00472,12-11-2025,Cookware Set,Home & Kitchen,5,1853.89,9269.45,Mumbai,Net Banking,32,Female
+ORD00473,29-05-2025,Water Bottle,Home & Kitchen,2,434.31,868.62,Nashik,Net Banking,38,Female
+ORD00474,29-06-2025,Cookware Set,Home & Kitchen,3,1890.2,5670.6,Mumbai,UPI,24,Female
+ORD00475,01-09-2025,Face Wash,Beauty,4,193.08,772.32,Thane,Net Banking,62,Female
+ORD00476,19-02-2025,Moisturizer,Beauty,4,333.03,1332.12,Navi Mumbai,Credit Card,27,Female
+ORD00477,26-11-2025,Bedsheet,Home & Kitchen,5,1074.42,5372.1,Kolhapur,Net Banking,34,Female
+ORD00478,18-09-2025,Sneakers,Clothing,3,1968.01,5904.03,Nashik,Credit Card,34,Male
+ORD00479,31-01-2025,Novel,Books,5,298.79,1493.95,Aurangabad,Net Banking,44,Female
+ORD00480,13-08-2025,Novel,Books,3,296.87,890.61,Pune,Credit Card,57,Male
+ORD00481,05-10-2025,Cookbook,Books,5,404.97,2024.85,Thane,Net Banking,30,Female
+ORD00482,02-01-2025,Jeans,Clothing,4,1376.62,5506.48,Nagpur,UPI,58,Other
+ORD00483,25-10-2025,Keyboard,Electronics,2,942.98,1885.96,Mumbai,Debit Card,61,Male
+ORD00484,06-10-2025,Moisturizer,Beauty,3,321.49,964.47,Pune,Credit Card,58,Male
+ORD00485,31-03-2025,Moisturizer,Beauty,3,348.41,1045.23,Nashik,Net Banking,36,Male
+ORD00486,21-04-2025,Sunscreen,Beauty,3,495.73,1487.19,Nashik,Debit Card,39,Male
+ORD00487,01-08-2025,Mixer Grinder,Home & Kitchen,2,2499.49,4998.98,Mumbai,Debit Card,55,Female
+ORD00488,01-08-2025,Face Wash,Beauty,2,210.96,421.92,Aurangabad,Credit Card,25,Female
+ORD00489,27-09-2025,Business Book,Books,4,472.93,1891.72,Nagpur,Cash,26,Female
+ORD00490,23-01-2025,T-Shirt,Clothing,5,487.15,2435.75,Kolhapur,Credit Card,65,Female
+ORD00491,27-10-2025,Wireless Mouse,Electronics,5,542.95,2714.75,Kolhapur,Credit Card,62,Female
+ORD00492,24-09-2025,Sunscreen,Beauty,3,487.81,1463.43,Aurangabad,Debit Card,52,Male
+ORD00493,25-03-2025,Bedsheet,Home & Kitchen,2,933.14,1866.28,Nashik,Cash,56,Male
+ORD00494,11-01-2025,Moisturizer,Beauty,2,323.84,647.68,Aurangabad,Net Banking,28,Female
+ORD00495,05-01-2025,Bedsheet,Home & Kitchen,3,1010.29,3030.87,Nashik,Debit Card,62,Male
+ORD00496,03-04-2025,Sunscreen,Beauty,3,465.86,1397.58,Nagpur,Net Banking,55,Male
+ORD00497,22-11-2025,Keyboard,Electronics,3,809.59,2428.77,Nagpur,Credit Card,27,Male
+ORD00498,19-10-2025,Cookware Set,Home & Kitchen,2,1784.62,3569.24,Pune,UPI,43,Female
+ORD00499,03-02-2025,Headphones,Electronics,5,1602.25,8011.25,Nashik,UPI,28,Male
+ORD00500,10-10-2025,Business Book,Books,4,469.69,1878.76,Pune,Cash,41,Male
+ORD00501,22-09-2025,Face Wash,Beauty,1,212.43,212.43,Mumbai,UPI,45,Female
+ORD00502,11-07-2025,Shampoo,Beauty,5,310.87,1554.35,Nagpur,Debit Card,43,Female
+ORD00503,06-02-2025,Children's Book,Books,4,239.83,959.32,Mumbai,UPI,46,Male
+ORD00504,25-10-2025,Face Wash,Beauty,4,212.58,850.32,Kolhapur,Credit Card,25,Female
+ORD00505,18-01-2025,Sneakers,Clothing,1,2100.59,2100.59,Nashik,Credit Card,49,Female
+ORD00506,23-06-2025,Novel,Books,2,277.19,554.38,Mumbai,Cash,22,Female
+ORD00507,21-03-2025,Jeans,Clothing,2,1348.85,2697.7,Pune,Cash,52,Female
+ORD00508,16-09-2025,Mixer Grinder,Home & Kitchen,2,2666.86,5333.72,Mumbai,Debit Card,53,Other
+ORD00509,31-07-2025,Shampoo,Beauty,1,306.58,306.58,Aurangabad,Credit Card,43,Female
+ORD00510,11-08-2025,Business Book,Books,5,498.25,2491.25,Mumbai,Debit Card,46,Male
+ORD00511,01-05-2025,T-Shirt,Clothing,4,522.06,2088.24,Aurangabad,UPI,61,Male
+ORD00512,02-06-2025,Wireless Mouse,Electronics,5,622.18,3110.9,Mumbai,Debit Card,19,Female
+ORD00513,06-08-2025,Mixer Grinder,Home & Kitchen,4,2466.32,9865.28,Mumbai,Net Banking,54,Female
+ORD00514,22-12-2025,Jacket,Clothing,1,2726.84,2726.84,Kolhapur,Net Banking,53,Male
+ORD00515,24-10-2025,T-Shirt,Clothing,5,522.59,2612.95,Pune,Credit Card,59,Male
+ORD00516,09-05-2025,Water Bottle,Home & Kitchen,5,413.67,2068.35,Nagpur,Net Banking,49,Male
+ORD00517,17-01-2025,Mixer Grinder,Home & Kitchen,4,2642.41,10569.64,Navi Mumbai,Debit Card,44,Male
+ORD00518,20-11-2025,Bedsheet,Home & Kitchen,2,1016.55,2033.1,Pune,Debit Card,21,Female
+ORD00519,19-05-2025,Business Book,Books,4,492.15,1968.6,Thane,Net Banking,37,Female
+ORD00520,16-12-2025,Jeans,Clothing,5,1340.79,6703.95,Navi Mumbai,UPI,53,Male
+ORD00521,11-07-2025,Moisturizer,Beauty,4,336.28,1345.12,Nashik,UPI,37,Male
+ORD00522,20-04-2025,Bedsheet,Home & Kitchen,3,1010.38,3031.14,Kolhapur,Credit Card,19,Female
+ORD00523,08-01-2025,Moisturizer,Beauty,1,331.52,331.52,Kolhapur,UPI,60,Male
+ORD00524,16-07-2025,T-Shirt,Clothing,3,501.9,1505.7,Mumbai,UPI,25,Male
+ORD00525,01-05-2025,Jacket,Clothing,2,2523.19,5046.38,Thane,Credit Card,37,Female
+ORD00526,12-03-2025,Keyboard,Electronics,1,831.91,831.91,Pune,Net Banking,65,Female
+ORD00527,27-12-2025,Cookbook,Books,3,366.16,1098.48,Navi Mumbai,Net Banking,37,Female
+ORD00528,09-06-2025,Jacket,Clothing,3,2441,7323,Kolhapur,Credit Card,25,Other
+ORD00529,25-08-2025,Mixer Grinder,Home & Kitchen,4,2732.86,10931.44,Nashik,UPI,37,Female
+ORD00530,08-07-2025,Sunscreen,Beauty,4,463.99,1855.96,Nashik,UPI,50,Male
+ORD00531,31-03-2025,T-Shirt,Clothing,5,534.37,2671.85,Kolhapur,UPI,31,Other
+ORD00532,14-02-2025,Cookbook,Books,1,371.95,371.95,Nagpur,Cash,20,Female
+ORD00533,03-08-2025,Jacket,Clothing,3,2431.62,7294.86,Thane,Cash,42,Male
+ORD00534,04-12-2025,Bedsheet,Home & Kitchen,3,1075.31,3225.93,Nagpur,Cash,40,Male
+ORD00535,31-03-2025,Novel,Books,5,269.77,1348.85,Pune,Net Banking,58,Female
+ORD00536,29-09-2025,Sneakers,Clothing,1,1912.48,1912.48,Navi Mumbai,UPI,33,Female
+ORD00537,16-11-2025,USB Drive,Electronics,4,464.43,1857.72,Mumbai,Cash,27,Female
+ORD00538,09-09-2025,USB Drive,Electronics,3,482.67,1448.01,Pune,Debit Card,18,Male
+ORD00539,19-10-2025,Children's Book,Books,1,272.4,272.4,Kolhapur,UPI,53,Male
+ORD00540,02-11-2025,Bedsheet,Home & Kitchen,3,963.13,2889.39,Thane,UPI,45,Male
+ORD00541,26-08-2025,Jeans,Clothing,1,1202.4,1202.4,Thane,Net Banking,62,Female
+ORD00542,21-03-2025,Water Bottle,Home & Kitchen,4,415.76,1663.04,Nagpur,Cash,60,Female
+ORD00543,06-02-2025,Moisturizer,Beauty,4,356.42,1425.68,Pune,UPI,53,Male
+ORD00544,17-03-2025,Sneakers,Clothing,3,1863.2,5589.6,Nashik,Cash,55,Female
+ORD00545,20-07-2025,Keyboard,Electronics,5,910.33,4551.65,Mumbai,Debit Card,57,Male
+ORD00546,15-08-2025,Children's Book,Books,5,228.98,1144.9,Aurangabad,Cash,46,Male
+ORD00547,31-01-2025,Jacket,Clothing,1,2636.15,2636.15,Nagpur,Debit Card,43,Male
+ORD00548,26-04-2025,USB Drive,Electronics,4,478.34,1913.36,Kolhapur,Debit Card,54,Female
+ORD00549,16-09-2025,Mixer Grinder,Home & Kitchen,5,2722.98,13614.9,Pune,UPI,45,Male
+ORD00550,05-08-2025,Jeans,Clothing,2,1361.96,2723.92,Navi Mumbai,UPI,45,Male
+ORD00551,08-04-2025,Water Bottle,Home & Kitchen,2,427.7,855.4,Mumbai,Cash,48,Female
+ORD00552,20-05-2025,Jeans,Clothing,1,1235.06,1235.06,Pune,UPI,65,Female
+ORD00553,02-01-2025,Cookbook,Books,5,373.81,1869.05,Nashik,Cash,61,Female
+ORD00554,23-05-2025,Jacket,Clothing,4,2472.7,9890.8,Nagpur,Credit Card,64,Male
+ORD00555,02-12-2025,Jacket,Clothing,4,2373.39,9493.56,Pune,Net Banking,41,Female
+ORD00556,12-11-2025,Wireless Mouse,Electronics,4,612.73,2450.92,Navi Mumbai,Debit Card,47,Male
+ORD00557,09-04-2025,Face Wash,Beauty,3,202.89,608.67,Aurangabad,Debit Card,24,Female
+ORD00558,30-11-2025,Jeans,Clothing,2,1284.98,2569.96,Navi Mumbai,Cash,26,Female
+ORD00559,06-01-2025,Keyboard,Electronics,2,982.43,1964.86,Mumbai,Net Banking,43,Female
+ORD00560,03-01-2025,Novel,Books,5,289.28,1446.4,Nashik,UPI,47,Male
+ORD00561,11-02-2025,T-Shirt,Clothing,2,514.9,1029.8,Thane,Cash,57,Male
+ORD00562,30-09-2025,Children's Book,Books,2,246.69,493.38,Nashik,Cash,62,Female
+ORD00563,07-11-2025,USB Drive,Electronics,1,545.37,545.37,Pune,Debit Card,61,Male
+ORD00564,27-02-2025,Keyboard,Electronics,2,855.43,1710.86,Pune,Net Banking,63,Male
+ORD00565,05-10-2025,USB Drive,Electronics,4,513.07,2052.28,Mumbai,Cash,45,Female
+ORD00566,13-04-2025,Jeans,Clothing,1,1412.72,1412.72,Thane,Cash,30,Female
+ORD00567,14-06-2025,Cookware Set,Home & Kitchen,1,1846.65,1846.65,Pune,UPI,54,Male
+ORD00568,02-12-2025,Children's Book,Books,2,232.18,464.36,Thane,Net Banking,33,Male
+ORD00569,12-03-2025,Wireless Mouse,Electronics,4,604,2416,Thane,UPI,47,Female
+ORD00570,17-07-2025,Novel,Books,3,322.99,968.97,Mumbai,Cash,20,Female
+ORD00571,04-11-2025,Bedsheet,Home & Kitchen,3,910.45,2731.35,Mumbai,Cash,19,Male
+ORD00572,26-01-2025,Jacket,Clothing,1,2746.91,2746.91,Mumbai,Credit Card,57,Female
+ORD00573,17-09-2025,Headphones,Electronics,1,1606.46,1606.46,Thane,UPI,34,Female
+ORD00574,25-05-2025,Keyboard,Electronics,2,831.36,1662.72,Pune,Debit Card,33,Male
+ORD00575,01-12-2025,Face Wash,Beauty,4,191.52,766.08,Aurangabad,Net Banking,23,Male
+ORD00576,24-01-2025,Face Wash,Beauty,4,203.01,812.04,Nagpur,Credit Card,22,Male
+ORD00577,09-08-2025,Water Bottle,Home & Kitchen,5,437.83,2189.15,Nagpur,Cash,26,Other
+ORD00578,16-02-2025,Business Book,Books,4,453.11,1812.44,Aurangabad,Cash,35,Male
+ORD00579,09-12-2025,Headphones,Electronics,4,1426.25,5705,Aurangabad,Debit Card,57,Male
+ORD00580,23-02-2025,USB Drive,Electronics,1,521.66,521.66,Aurangabad,UPI,24,Male
+ORD00581,10-01-2025,T-Shirt,Clothing,4,504.33,2017.32,Navi Mumbai,Cash,28,Male
+ORD00582,26-07-2025,Business Book,Books,3,458.49,1375.47,Pune,Debit Card,62,Female
+ORD00583,01-12-2025,Sneakers,Clothing,5,2058.73,10293.65,Nashik,Net Banking,58,Male
+ORD00584,25-12-2025,Water Bottle,Home & Kitchen,1,367.84,367.84,Mumbai,Cash,34,Female
+ORD00585,04-08-2025,Shampoo,Beauty,5,277.86,1389.3,Aurangabad,Cash,30,Male
+ORD00586,02-11-2025,Sneakers,Clothing,2,1931.27,3862.54,Thane,Debit Card,56,Female
+ORD00587,20-02-2025,Jacket,Clothing,1,2652.86,2652.86,Kolhapur,Cash,40,Female
+ORD00588,28-03-2025,Keyboard,Electronics,3,888.1,2664.3,Mumbai,UPI,42,Male
+ORD00589,18-02-2025,Water Bottle,Home & Kitchen,1,435.24,435.24,Pune,Credit Card,29,Male
+ORD00590,18-09-2025,Jacket,Clothing,5,2530.47,12652.35,Kolhapur,Cash,32,Male
+ORD00591,07-05-2025,Sunscreen,Beauty,2,529.13,1058.26,Nashik,Net Banking,32,Female
+ORD00592,13-12-2025,Cookware Set,Home & Kitchen,3,1716.58,5149.74,Navi Mumbai,Cash,19,Female
+ORD00593,23-04-2025,Wireless Mouse,Electronics,5,606.82,3034.1,Pune,UPI,18,Female
+ORD00594,03-11-2025,Keyboard,Electronics,1,894.88,894.88,Thane,UPI,28,Male
+ORD00595,14-12-2025,Shampoo,Beauty,2,277.48,554.96,Kolhapur,Net Banking,33,Female
+ORD00596,22-07-2025,Cookware Set,Home & Kitchen,4,1872.44,7489.76,Aurangabad,UPI,41,Female
+ORD00597,08-02-2025,Keyboard,Electronics,5,928.6,4643,Navi Mumbai,UPI,19,Male
+ORD00598,12-01-2025,T-Shirt,Clothing,1,512.85,512.85,Nagpur,UPI,38,Male
+ORD00599,09-05-2025,Keyboard,Electronics,3,938.64,2815.92,Nagpur,Debit Card,44,Male
+ORD00600,16-12-2025,Water Bottle,Home & Kitchen,5,419.45,2097.25,Navi Mumbai,Net Banking,41,Male
+ORD00601,27-04-2025,USB Drive,Electronics,3,474.64,1423.92,Aurangabad,Net Banking,22,Male
+ORD00602,22-06-2025,Children's Book,Books,1,225.37,225.37,Nashik,Credit Card,21,Female
+ORD00603,19-07-2025,Shampoo,Beauty,3,305.98,917.94,Navi Mumbai,Credit Card,41,Female
+ORD00604,16-10-2025,USB Drive,Electronics,1,457.64,457.64,Thane,Credit Card,18,Male
+ORD00605,20-10-2025,Cookbook,Books,1,407.32,407.32,Pune,Net Banking,62,Female
+ORD00606,25-01-2025,Bedsheet,Home & Kitchen,3,943.66,2830.98,Kolhapur,Debit Card,31,Male
+ORD00607,14-05-2025,Wireless Mouse,Electronics,3,581.19,1743.57,Thane,Debit Card,45,Male
+ORD00608,28-09-2025,Shampoo,Beauty,3,289.44,868.32,Aurangabad,Credit Card,25,Male
+ORD00609,03-09-2025,Cookbook,Books,3,422.58,1267.74,Pune,Debit Card,60,Male
+ORD00610,23-11-2025,Children's Book,Books,1,229.88,229.88,Mumbai,UPI,33,Female
+ORD00611,24-07-2025,Jeans,Clothing,3,1293.96,3881.88,Nashik,Cash,26,Male
+ORD00612,12-11-2025,Novel,Books,2,304.09,608.18,Nashik,UPI,33,Male
+ORD00613,25-08-2025,Cookware Set,Home & Kitchen,2,1667.69,3335.38,Thane,Debit Card,18,Male
+ORD00614,13-05-2025,Shampoo,Beauty,5,278.86,1394.3,Nashik,Cash,38,Male
+ORD00615,16-06-2025,Children's Book,Books,3,271.62,814.86,Mumbai,Credit Card,24,Female
+ORD00616,25-07-2025,Sunscreen,Beauty,3,469.33,1407.99,Nagpur,Net Banking,44,Female
+ORD00617,09-04-2025,Mixer Grinder,Home & Kitchen,1,2318.22,2318.22,Navi Mumbai,Cash,29,Male
+ORD00618,07-11-2025,Face Wash,Beauty,4,215.99,863.96,Mumbai,Cash,23,Female
+ORD00619,26-01-2025,Cookware Set,Home & Kitchen,5,1919.33,9596.65,Navi Mumbai,Debit Card,41,Female
+ORD00620,15-05-2025,Shampoo,Beauty,5,299.95,1499.75,Thane,Net Banking,42,Male
+ORD00621,18-02-2025,Cookbook,Books,5,399.89,1999.45,Nashik,UPI,40,Male
+ORD00622,19-09-2025,Jeans,Clothing,4,1373.51,5494.04,Mumbai,UPI,58,Female
+ORD00623,29-08-2025,Mixer Grinder,Home & Kitchen,2,2450.33,4900.66,Thane,UPI,34,Male
+ORD00624,06-06-2025,Bedsheet,Home & Kitchen,5,1083.77,5418.85,Aurangabad,Cash,45,Female
+ORD00625,01-04-2025,Shampoo,Beauty,3,273.64,820.92,Pune,Debit Card,65,Male
+ORD00626,26-04-2025,Jeans,Clothing,1,1324,1324,Thane,Cash,27,Male
+ORD00627,17-11-2025,Moisturizer,Beauty,1,337.6,337.6,Mumbai,Cash,51,Male
+ORD00628,24-10-2025,Children's Book,Books,5,258.56,1292.8,Nashik,Cash,18,Male
+ORD00629,13-10-2025,USB Drive,Electronics,4,542.67,2170.68,Pune,Net Banking,19,Female
+ORD00630,08-05-2025,Keyboard,Electronics,3,951.06,2853.18,Mumbai,Credit Card,31,Female
+ORD00631,15-08-2025,USB Drive,Electronics,1,479.17,479.17,Navi Mumbai,Credit Card,56,Male
+ORD00632,20-06-2025,Sunscreen,Beauty,3,504.22,1512.66,Navi Mumbai,Credit Card,44,Male
+ORD00633,28-11-2025,Shampoo,Beauty,3,324.84,974.52,Thane,Debit Card,31,Female
+ORD00634,19-07-2025,Water Bottle,Home & Kitchen,5,404.03,2020.15,Nagpur,UPI,53,Female
+ORD00635,18-03-2025,Jacket,Clothing,4,2498.19,9992.76,Thane,Debit Card,65,Female
+ORD00636,28-07-2025,Headphones,Electronics,4,1387.82,5551.28,Aurangabad,Credit Card,52,Female
+ORD00637,08-11-2025,Jeans,Clothing,3,1276.66,3829.98,Kolhapur,Debit Card,36,Female
+ORD00638,29-09-2025,USB Drive,Electronics,4,505.7,2022.8,Navi Mumbai,Debit Card,56,Female
+ORD00639,17-12-2025,Mixer Grinder,Home & Kitchen,3,2602.59,7807.77,Mumbai,Net Banking,29,Female
+ORD00640,06-11-2025,Shampoo,Beauty,4,305.54,1222.16,Pune,UPI,44,Female
+ORD00641,13-11-2025,Cookware Set,Home & Kitchen,4,1658.55,6634.2,Nashik,Credit Card,56,Male
+ORD00642,19-05-2025,Cookware Set,Home & Kitchen,1,1674.34,1674.34,Aurangabad,Net Banking,41,Male
+ORD00643,22-06-2025,Face Wash,Beauty,1,185.64,185.64,Nagpur,Cash,32,Male
+ORD00644,26-03-2025,Cookbook,Books,3,371.42,1114.26,Thane,Credit Card,60,Female
+ORD00645,24-03-2025,Bedsheet,Home & Kitchen,3,965.04,2895.12,Nagpur,Debit Card,38,Other
+ORD00646,17-06-2025,Water Bottle,Home & Kitchen,1,427.09,427.09,Aurangabad,Cash,44,Male
+ORD00647,17-04-2025,Headphones,Electronics,2,1588.67,3177.34,Kolhapur,Debit Card,43,Female
+ORD00648,09-08-2025,Moisturizer,Beauty,3,363.73,1091.19,Nashik,UPI,61,Male
+ORD00649,24-10-2025,Sneakers,Clothing,2,2143.22,4286.44,Mumbai,Debit Card,45,Male
+ORD00650,27-03-2025,Face Wash,Beauty,4,184.69,738.76,Thane,Net Banking,39,Male
+ORD00651,27-10-2025,Mixer Grinder,Home & Kitchen,1,2377.39,2377.39,Nagpur,Cash,25,Female
+ORD00652,04-08-2025,Headphones,Electronics,4,1469.53,5878.12,Nagpur,Credit Card,61,Female
+ORD00653,26-06-2025,Moisturizer,Beauty,1,368.5,368.5,Navi Mumbai,Credit Card,39,Male
+ORD00654,06-04-2025,Face Wash,Beauty,5,182.55,912.75,Mumbai,Debit Card,65,Female
+ORD00655,14-12-2025,Children's Book,Books,2,245.93,491.86,Nagpur,Credit Card,30,Female
+ORD00656,09-10-2025,USB Drive,Electronics,2,542.47,1084.94,Mumbai,Debit Card,24,Male
+ORD00657,24-03-2025,Novel,Books,2,308.33,616.66,Navi Mumbai,Credit Card,42,Female
+ORD00658,10-06-2025,Children's Book,Books,4,258.69,1034.76,Thane,Credit Card,25,Male
+ORD00659,15-08-2025,Sneakers,Clothing,3,1910.05,5730.15,Nagpur,Debit Card,25,Female
+ORD00660,17-03-2025,Moisturizer,Beauty,3,375.88,1127.64,Nagpur,Net Banking,48,Male
+ORD00661,19-12-2025,T-Shirt,Clothing,4,508.87,2035.48,Aurangabad,Debit Card,40,Male
+ORD00662,06-04-2025,Cookware Set,Home & Kitchen,5,1697.05,8485.25,Aurangabad,Debit Card,43,Male
+ORD00663,25-10-2025,Novel,Books,1,279.65,279.65,Navi Mumbai,UPI,50,Male
+ORD00664,07-06-2025,Novel,Books,2,283.87,567.74,Aurangabad,Cash,32,Male
+ORD00665,16-03-2025,Moisturizer,Beauty,3,336.27,1008.81,Aurangabad,UPI,42,Male
+ORD00666,22-03-2025,Headphones,Electronics,5,1366.28,6831.4,Pune,Net Banking,61,Female
+ORD00667,29-03-2025,Jacket,Clothing,2,2458.92,4917.84,Thane,Credit Card,34,Male
+ORD00668,05-11-2025,Wireless Mouse,Electronics,3,582.22,1746.66,Nashik,Cash,32,Male
+ORD00669,17-11-2025,Shampoo,Beauty,4,288.36,1153.44,Kolhapur,Debit Card,32,Male
+ORD00670,28-12-2025,T-Shirt,Clothing,4,466.17,1864.68,Navi Mumbai,Cash,41,Male
+ORD00671,08-05-2025,Novel,Books,3,326.05,978.15,Nashik,Cash,34,Male
+ORD00672,15-10-2025,T-Shirt,Clothing,4,458.31,1833.24,Nashik,Credit Card,54,Male
+ORD00673,18-01-2025,Jeans,Clothing,3,1175.54,3526.62,Mumbai,Debit Card,53,Male
+ORD00674,16-07-2025,Moisturizer,Beauty,3,361.86,1085.58,Mumbai,UPI,25,Male
+ORD00675,10-06-2025,Jacket,Clothing,5,2616.05,13080.25,Nagpur,Net Banking,26,Other
+ORD00676,24-11-2025,Cookbook,Books,4,427.1,1708.4,Aurangabad,Credit Card,53,Female
+ORD00677,23-06-2025,Shampoo,Beauty,3,307.27,921.81,Nashik,Debit Card,50,Male
+ORD00678,09-11-2025,Sunscreen,Beauty,5,528.88,2644.4,Kolhapur,Cash,29,Female
+ORD00679,08-12-2025,USB Drive,Electronics,3,539.61,1618.83,Navi Mumbai,Debit Card,49,Male
+ORD00680,23-06-2025,Cookware Set,Home & Kitchen,5,1710.86,8554.3,Nagpur,Net Banking,56,Male
+ORD00681,10-03-2025,Novel,Books,3,320.32,960.96,Aurangabad,Debit Card,18,Female
+ORD00682,06-10-2025,Wireless Mouse,Electronics,2,644.09,1288.18,Thane,Debit Card,27,Male
+ORD00683,14-06-2025,Cookbook,Books,4,419.05,1676.2,Nagpur,Debit Card,35,Male
+ORD00684,28-03-2025,Jeans,Clothing,2,1410.15,2820.3,Pune,UPI,65,Male
+ORD00685,01-04-2025,Water Bottle,Home & Kitchen,2,363.76,727.52,Navi Mumbai,Cash,58,Male
+ORD00686,28-08-2025,Water Bottle,Home & Kitchen,4,409.43,1637.72,Kolhapur,Credit Card,64,Female
+ORD00687,17-10-2025,Children's Book,Books,3,248.57,745.71,Navi Mumbai,Cash,47,Female
+ORD00688,29-06-2025,Wireless Mouse,Electronics,5,549.28,2746.4,Aurangabad,Credit Card,62,Male
+ORD00689,05-12-2025,Jacket,Clothing,4,2729.02,10916.08,Nashik,UPI,62,Female
+ORD00690,04-01-2025,T-Shirt,Clothing,2,481.51,963.02,Mumbai,Net Banking,25,Female
+ORD00691,25-08-2025,Headphones,Electronics,3,1582.45,4747.35,Nagpur,Debit Card,18,Male
+ORD00692,04-07-2025,Jeans,Clothing,2,1250.26,2500.52,Pune,Credit Card,18,Male
+ORD00693,18-08-2025,Cookware Set,Home & Kitchen,4,1955.76,7823.04,Thane,Cash,62,Male
+ORD00694,20-09-2025,Bedsheet,Home & Kitchen,3,911.41,2734.23,Navi Mumbai,Credit Card,36,Male
+ORD00695,08-09-2025,Keyboard,Electronics,1,960.3,960.3,Nagpur,Cash,38,Female
+ORD00696,15-05-2025,Cookbook,Books,1,416.79,416.79,Nashik,Credit Card,30,Male
+ORD00697,16-08-2025,Shampoo,Beauty,4,297.56,1190.24,Navi Mumbai,Cash,55,Male
+ORD00698,18-09-2025,Mixer Grinder,Home & Kitchen,2,2468.94,4937.88,Nagpur,Net Banking,19,Female
+ORD00699,07-09-2025,Mixer Grinder,Home & Kitchen,2,2570.33,5140.66,Nashik,Cash,21,Female
+ORD00700,21-08-2025,Children's Book,Books,3,260.57,781.71,Nagpur,Debit Card,29,Male
+ORD00701,12-04-2025,Mixer Grinder,Home & Kitchen,3,2432.4,7297.2,Aurangabad,Credit Card,39,Male
+ORD00702,03-09-2025,Business Book,Books,5,492.77,2463.85,Nagpur,Debit Card,21,Male
+ORD00703,04-09-2025,Face Wash,Beauty,5,192.78,963.9,Pune,Net Banking,44,Female
+ORD00704,02-09-2025,T-Shirt,Clothing,2,510.99,1021.98,Navi Mumbai,UPI,35,Male
+ORD00705,13-02-2025,Wireless Mouse,Electronics,5,658.78,3293.9,Nagpur,Debit Card,27,Female
+ORD00706,11-05-2025,Wireless Mouse,Electronics,1,589.25,589.25,Nagpur,Debit Card,61,Female
+ORD00707,22-12-2025,Moisturizer,Beauty,2,316.84,633.68,Nashik,Net Banking,22,Female
+ORD00708,04-11-2025,Moisturizer,Beauty,2,324.04,648.08,Nagpur,Debit Card,42,Female
+ORD00709,15-08-2025,Shampoo,Beauty,5,287.7,1438.5,Mumbai,Debit Card,59,Male
+ORD00710,04-10-2025,Keyboard,Electronics,1,954.79,954.79,Nagpur,Credit Card,43,Male
+ORD00711,24-10-2025,Cookware Set,Home & Kitchen,1,1936.17,1936.17,Nashik,Debit Card,51,Female
+ORD00712,14-04-2025,Face Wash,Beauty,3,213.54,640.62,Navi Mumbai,Debit Card,37,Male
+ORD00713,18-07-2025,Cookware Set,Home & Kitchen,5,1856.73,9283.65,Aurangabad,Debit Card,41,Female
+ORD00714,24-01-2025,T-Shirt,Clothing,2,541.21,1082.42,Pune,Credit Card,44,Female
+ORD00715,20-02-2025,Children's Book,Books,1,269.41,269.41,Nagpur,Debit Card,55,Female
+ORD00716,26-01-2025,Cookware Set,Home & Kitchen,1,1797.95,1797.95,Thane,Debit Card,34,Female
+ORD00717,04-02-2025,Mixer Grinder,Home & Kitchen,4,2285.61,9142.44,Kolhapur,UPI,57,Female
+ORD00718,28-04-2025,USB Drive,Electronics,1,537.1,537.1,Pune,Cash,22,Female
+ORD00719,05-06-2025,Moisturizer,Beauty,1,381.04,381.04,Nagpur,Net Banking,54,Male
+ORD00720,18-02-2025,Novel,Books,3,328.25,984.75,Kolhapur,Cash,23,Male
+ORD00721,17-02-2025,Jeans,Clothing,3,1349.61,4048.83,Kolhapur,Credit Card,62,Male
+ORD00722,10-03-2025,Jeans,Clothing,3,1210.19,3630.57,Navi Mumbai,UPI,24,Female
+ORD00723,10-07-2025,Water Bottle,Home & Kitchen,5,374.82,1874.1,Nashik,UPI,48,Male
+ORD00724,20-12-2025,Jacket,Clothing,1,2495.74,2495.74,Nagpur,Credit Card,22,Male
+ORD00725,27-03-2025,Headphones,Electronics,2,1460.65,2921.3,Pune,UPI,38,Male
+ORD00726,18-11-2025,T-Shirt,Clothing,5,548.53,2742.65,Kolhapur,Debit Card,38,Male
+ORD00727,28-03-2025,Moisturizer,Beauty,1,315.09,315.09,Nagpur,UPI,58,Male
+ORD00728,08-04-2025,Water Bottle,Home & Kitchen,1,416.24,416.24,Thane,Net Banking,58,Male
+ORD00729,09-03-2025,Jacket,Clothing,3,2496.65,7489.95,Aurangabad,UPI,37,Female
+ORD00730,11-03-2025,Keyboard,Electronics,2,840.09,1680.18,Kolhapur,Debit Card,20,Female
+ORD00731,02-04-2025,Jacket,Clothing,4,2475.4,9901.6,Kolhapur,UPI,33,Male
+ORD00732,04-06-2025,Children's Book,Books,1,239.78,239.78,Kolhapur,Cash,56,Female
+ORD00733,30-08-2025,Cookware Set,Home & Kitchen,4,1791.82,7167.28,Nagpur,Net Banking,36,Male
+ORD00734,24-10-2025,Bedsheet,Home & Kitchen,4,1008.22,4032.88,Mumbai,UPI,36,Male
+ORD00735,19-05-2025,Shampoo,Beauty,3,318.23,954.69,Kolhapur,Debit Card,42,Male
+ORD00736,10-07-2025,Cookbook,Books,5,397.45,1987.25,Thane,Cash,29,Male
+ORD00737,19-09-2025,Jeans,Clothing,1,1415.81,1415.81,Pune,Cash,26,Male
+ORD00738,09-03-2025,Cookware Set,Home & Kitchen,5,1924.81,9624.05,Thane,Credit Card,63,Male
+ORD00739,19-12-2025,Bedsheet,Home & Kitchen,3,1039.69,3119.07,Aurangabad,UPI,39,Male
+ORD00740,27-09-2025,Water Bottle,Home & Kitchen,4,381.55,1526.2,Nagpur,Net Banking,61,Male
+ORD00741,25-08-2025,Business Book,Books,3,490.98,1472.94,Kolhapur,UPI,22,Male
+ORD00742,22-01-2025,Keyboard,Electronics,4,912.3,3649.2,Pune,Net Banking,39,Male
+ORD00743,24-09-2025,Jeans,Clothing,2,1249.55,2499.1,Navi Mumbai,Debit Card,60,Female
+ORD00744,03-09-2025,Face Wash,Beauty,4,182.02,728.08,Pune,Debit Card,22,Female
+ORD00745,10-03-2025,Bedsheet,Home & Kitchen,3,942.91,2828.73,Pune,Credit Card,28,Female
+ORD00746,10-06-2025,Mixer Grinder,Home & Kitchen,4,2701.52,10806.08,Thane,Debit Card,49,Female
+ORD00747,28-11-2025,Mixer Grinder,Home & Kitchen,2,2296.82,4593.64,Kolhapur,Cash,20,Female
+ORD00748,14-08-2025,Business Book,Books,3,481.2,1443.6,Aurangabad,Net Banking,54,Female
+ORD00749,08-04-2025,Sneakers,Clothing,2,2034.78,4069.56,Thane,Net Banking,64,Male
+ORD00750,06-08-2025,Jacket,Clothing,5,2648.05,13240.25,Kolhapur,Debit Card,36,Other
+ORD00751,09-07-2025,Novel,Books,1,297.76,297.76,Nashik,Cash,42,Female
+ORD00752,21-02-2025,Shampoo,Beauty,4,294.66,1178.64,Nashik,UPI,42,Male
+ORD00753,09-11-2025,Headphones,Electronics,1,1561.74,1561.74,Pune,Cash,48,Female
+ORD00754,06-07-2025,Sneakers,Clothing,1,1952.22,1952.22,Navi Mumbai,Debit Card,30,Male
+ORD00755,08-06-2025,Headphones,Electronics,4,1473.72,5894.88,Kolhapur,Credit Card,41,Male
+ORD00756,20-01-2025,Mixer Grinder,Home & Kitchen,3,2539.42,7618.26,Mumbai,Debit Card,61,Male
+ORD00757,17-03-2025,Business Book,Books,2,501.37,1002.74,Nagpur,Credit Card,43,Male
+ORD00758,18-09-2025,Face Wash,Beauty,4,189.01,756.04,Mumbai,Net Banking,37,Female
+ORD00759,18-12-2025,Business Book,Books,5,519.64,2598.2,Thane,Net Banking,30,Female
+ORD00760,23-07-2025,T-Shirt,Clothing,3,510.15,1530.45,Kolhapur,Net Banking,49,Female
+ORD00761,16-02-2025,Headphones,Electronics,4,1558.79,6235.16,Thane,Debit Card,41,Female
+ORD00762,02-03-2025,Sunscreen,Beauty,1,462.46,462.46,Mumbai,Net Banking,41,Male
+ORD00763,21-07-2025,Cookware Set,Home & Kitchen,5,1919.85,9599.25,Kolhapur,Credit Card,65,Male
+ORD00764,23-11-2025,Water Bottle,Home & Kitchen,5,373.07,1865.35,Mumbai,Cash,27,Female
+ORD00765,13-08-2025,Face Wash,Beauty,1,208.8,208.8,Kolhapur,Cash,29,Male
+ORD00766,06-10-2025,Headphones,Electronics,3,1409.81,4229.43,Nagpur,Credit Card,35,Male
+ORD00767,27-07-2025,T-Shirt,Clothing,3,467.62,1402.86,Mumbai,Cash,34,Female
+ORD00768,23-04-2025,Keyboard,Electronics,4,841.77,3367.08,Mumbai,Cash,34,Male
+ORD00769,15-11-2025,Face Wash,Beauty,3,203.11,609.33,Kolhapur,UPI,64,Male
+ORD00770,21-06-2025,Cookware Set,Home & Kitchen,5,1630.89,8154.45,Nagpur,Credit Card,55,Male
+ORD00771,21-05-2025,Water Bottle,Home & Kitchen,3,428.38,1285.14,Navi Mumbai,Debit Card,48,Female
+ORD00772,18-06-2025,Children's Book,Books,5,247.82,1239.1,Nashik,Debit Card,52,Male
+ORD00773,08-01-2025,Bedsheet,Home & Kitchen,2,938.22,1876.44,Nashik,Net Banking,31,Male
+ORD00774,06-01-2025,T-Shirt,Clothing,1,502.07,502.07,Aurangabad,Cash,21,Male
+ORD00775,16-12-2025,Mixer Grinder,Home & Kitchen,3,2388.55,7165.65,Nashik,Net Banking,52,Male
+ORD00776,15-09-2025,Sunscreen,Beauty,5,517.55,2587.75,Nashik,Credit Card,38,Female
+ORD00777,04-10-2025,Bedsheet,Home & Kitchen,1,1098.55,1098.55,Navi Mumbai,Debit Card,24,Female
+ORD00778,05-07-2025,Face Wash,Beauty,2,180.77,361.54,Navi Mumbai,Net Banking,59,Male
+ORD00779,03-01-2025,Cookware Set,Home & Kitchen,5,1746.96,8734.8,Pune,Cash,55,Female
+ORD00780,31-12-2025,USB Drive,Electronics,1,539.9,539.9,Pune,Debit Card,65,Female
+ORD00781,24-01-2025,Wireless Mouse,Electronics,2,548.08,1096.16,Aurangabad,Debit Card,42,Male
+ORD00782,31-12-2025,Face Wash,Beauty,3,202.55,607.65,Nashik,Credit Card,51,Male
+ORD00783,31-12-2025,Jacket,Clothing,1,2424.18,2424.18,Nagpur,UPI,27,Female
+ORD00784,06-01-2025,Wireless Mouse,Electronics,2,651.71,1303.42,Nagpur,UPI,42,Female
+ORD00785,27-10-2025,Jeans,Clothing,4,1169.9,4679.6,Navi Mumbai,Cash,39,Female
+ORD00786,04-08-2025,Face Wash,Beauty,5,194.9,974.5,Aurangabad,Net Banking,44,Female
+ORD00787,15-03-2025,Novel,Books,5,302.05,1510.25,Thane,UPI,18,Female
+ORD00788,25-08-2025,Novel,Books,5,275.19,1375.95,Kolhapur,Credit Card,21,Male
+ORD00789,26-01-2025,USB Drive,Electronics,4,450.92,1803.68,Kolhapur,UPI,56,Female
+ORD00790,07-09-2025,Bedsheet,Home & Kitchen,1,924,924,Nashik,UPI,29,Female
+ORD00791,07-10-2025,Sneakers,Clothing,5,2149.79,10748.95,Nagpur,Debit Card,39,Male
+ORD00792,02-08-2025,Shampoo,Beauty,1,308.33,308.33,Mumbai,Debit Card,60,Female
+ORD00793,25-04-2025,Shampoo,Beauty,3,298.17,894.51,Nagpur,Cash,52,Female
+ORD00794,29-12-2025,Sneakers,Clothing,4,2190.43,8761.72,Nagpur,Debit Card,23,Male
+ORD00795,23-02-2025,Cookbook,Books,3,393.57,1180.71,Mumbai,Credit Card,60,Female
+ORD00796,18-03-2025,Wireless Mouse,Electronics,1,609.85,609.85,Pune,Debit Card,52,Male
+ORD00797,10-01-2025,Children's Book,Books,2,250.1,500.2,Aurangabad,Credit Card,32,Male
+ORD00798,03-07-2025,T-Shirt,Clothing,5,540.44,2702.2,Thane,Debit Card,25,Female
+ORD00799,15-03-2025,Headphones,Electronics,3,1577.04,4731.12,Thane,Debit Card,29,Male
+ORD00800,11-06-2025,Cookbook,Books,3,373.49,1120.47,Aurangabad,Credit Card,25,Female
+ORD00801,30-09-2025,Children's Book,Books,4,225.07,900.28,Nashik,Credit Card,55,Female
+ORD00802,16-05-2025,Cookware Set,Home & Kitchen,5,1754.24,8771.2,Kolhapur,Cash,25,Male
+ORD00803,29-09-2025,Novel,Books,4,278.11,1112.44,Nagpur,Credit Card,63,Female
+ORD00804,05-09-2025,Children's Book,Books,1,224.21,224.21,Nashik,Credit Card,32,Male
+ORD00805,25-03-2025,Cookware Set,Home & Kitchen,2,1832.18,3664.36,Thane,Credit Card,44,Male
+ORD00806,17-12-2025,Wireless Mouse,Electronics,2,542.67,1085.34,Thane,Net Banking,61,Female
+ORD00807,30-07-2025,Keyboard,Electronics,4,911.11,3644.44,Aurangabad,Net Banking,36,Male
+ORD00808,11-04-2025,Jeans,Clothing,2,1179.72,2359.44,Thane,UPI,60,Female
+ORD00809,17-06-2025,Water Bottle,Home & Kitchen,5,389.53,1947.65,Navi Mumbai,Debit Card,31,Male
+ORD00810,09-08-2025,Water Bottle,Home & Kitchen,5,436.8,2184,Nagpur,Net Banking,49,Female
+ORD00811,24-02-2025,Jeans,Clothing,4,1320.84,5283.36,Thane,UPI,51,Male
+ORD00812,18-03-2025,Sunscreen,Beauty,3,481.75,1445.25,Kolhapur,Cash,26,Male
+ORD00813,29-08-2025,Water Bottle,Home & Kitchen,2,438.25,876.5,Kolhapur,Credit Card,22,Male
+ORD00814,09-12-2025,Face Wash,Beauty,4,180.71,722.84,Navi Mumbai,UPI,49,Female
+ORD00815,30-10-2025,Face Wash,Beauty,4,217.71,870.84,Navi Mumbai,Debit Card,60,Female
+ORD00816,13-08-2025,Cookbook,Books,2,428.08,856.16,Thane,Credit Card,55,Male
+ORD00817,14-07-2025,Business Book,Books,4,501.49,2005.96,Aurangabad,Net Banking,28,Male
+ORD00818,30-12-2025,Face Wash,Beauty,2,193.33,386.66,Navi Mumbai,UPI,41,Female
+ORD00819,07-01-2025,USB Drive,Electronics,3,494.51,1483.53,Aurangabad,Cash,55,Male
+ORD00820,10-11-2025,Mixer Grinder,Home & Kitchen,2,2454.85,4909.7,Pune,Credit Card,54,Male
+ORD00821,08-07-2025,Cookbook,Books,4,429.12,1716.48,Kolhapur,UPI,46,Male
+ORD00822,14-08-2025,Headphones,Electronics,3,1438.6,4315.8,Aurangabad,Net Banking,29,Male
+ORD00823,10-10-2025,Mixer Grinder,Home & Kitchen,5,2674.21,13371.05,Navi Mumbai,Cash,19,Female
+ORD00824,29-12-2025,Bedsheet,Home & Kitchen,4,945.93,3783.72,Nashik,Cash,54,Male
+ORD00825,25-06-2025,Cookbook,Books,5,399.25,1996.25,Mumbai,UPI,18,Female
+ORD00826,03-12-2025,Cookbook,Books,1,388.32,388.32,Mumbai,UPI,19,Other
+ORD00827,10-05-2025,Business Book,Books,1,476.53,476.53,Nagpur,Net Banking,27,Female
+ORD00828,23-06-2025,Jeans,Clothing,2,1187.41,2374.82,Nagpur,Credit Card,18,Female
+ORD00829,30-09-2025,Jeans,Clothing,1,1369.08,1369.08,Nashik,Cash,37,Female
+ORD00830,04-01-2025,Headphones,Electronics,5,1421.84,7109.2,Thane,Net Banking,57,Male
+ORD00831,03-10-2025,Cookware Set,Home & Kitchen,5,1632.47,8162.35,Nagpur,Debit Card,62,Male
+ORD00832,14-09-2025,Water Bottle,Home & Kitchen,5,372.09,1860.45,Thane,Debit Card,58,Male
+ORD00833,29-01-2025,Sneakers,Clothing,5,1994.69,9973.45,Nashik,UPI,50,Female
+ORD00834,04-09-2025,Children's Book,Books,5,272.97,1364.85,Nagpur,Debit Card,54,Female
+ORD00835,23-08-2025,Bedsheet,Home & Kitchen,1,1075.63,1075.63,Aurangabad,Credit Card,59,Female
+ORD00836,18-02-2025,Water Bottle,Home & Kitchen,2,375.96,751.92,Kolhapur,Net Banking,38,Male
+ORD00837,26-05-2025,Moisturizer,Beauty,1,357.59,357.59,Thane,Net Banking,48,Female
+ORD00838,09-12-2025,Moisturizer,Beauty,4,336.56,1346.24,Aurangabad,Net Banking,28,Male
+ORD00839,12-11-2025,USB Drive,Electronics,1,479.4,479.4,Mumbai,Cash,52,Male
+ORD00840,23-06-2025,Cookware Set,Home & Kitchen,2,1668.04,3336.08,Nashik,Debit Card,39,Female
+ORD00841,09-12-2025,T-Shirt,Clothing,4,512.83,2051.32,Kolhapur,Net Banking,42,Female
+ORD00842,24-06-2025,Keyboard,Electronics,5,868.6,4343,Pune,UPI,30,Male
+ORD00843,29-04-2025,Keyboard,Electronics,4,857.88,3431.52,Nagpur,Cash,64,Male
+ORD00844,24-12-2025,Wireless Mouse,Electronics,4,560.17,2240.68,Pune,Debit Card,27,Male
+ORD00845,15-01-2025,Keyboard,Electronics,3,858.17,2574.51,Nashik,Net Banking,51,Male
+ORD00846,15-03-2025,Shampoo,Beauty,2,296.83,593.66,Aurangabad,Debit Card,56,Male
+ORD00847,02-06-2025,Novel,Books,4,321.13,1284.52,Navi Mumbai,Net Banking,23,Female
+ORD00848,27-10-2025,Keyboard,Electronics,1,932.47,932.47,Kolhapur,Debit Card,39,Male
+ORD00849,30-05-2025,Cookware Set,Home & Kitchen,1,1910.86,1910.86,Kolhapur,Credit Card,36,Male
+ORD00850,29-12-2025,Sunscreen,Beauty,1,479.69,479.69,Mumbai,Net Banking,31,Female
+ORD00851,10-02-2025,Novel,Books,1,277.02,277.02,Nagpur,UPI,55,Female
+ORD00852,04-05-2025,Shampoo,Beauty,1,314.55,314.55,Nagpur,Cash,65,Male
+ORD00853,15-06-2025,Keyboard,Electronics,2,963.11,1926.22,Aurangabad,Cash,18,Male
+ORD00854,06-06-2025,Mixer Grinder,Home & Kitchen,4,2676.19,10704.76,Navi Mumbai,Credit Card,50,Male
+ORD00855,11-07-2025,Keyboard,Electronics,2,948.58,1897.16,Navi Mumbai,Net Banking,65,Male
+ORD00856,04-11-2025,Bedsheet,Home & Kitchen,2,925.85,1851.7,Thane,Net Banking,22,Male
+ORD00857,07-05-2025,Water Bottle,Home & Kitchen,1,422.43,422.43,Navi Mumbai,Credit Card,30,Female
+ORD00858,07-11-2025,Business Book,Books,3,468.44,1405.32,Thane,Debit Card,46,Female
+ORD00859,13-06-2025,T-Shirt,Clothing,3,503.3,1509.9,Nagpur,Credit Card,64,Male
+ORD00860,02-04-2025,Children's Book,Books,2,264.15,528.3,Thane,UPI,47,Male
+ORD00861,01-12-2025,Keyboard,Electronics,3,870.82,2612.46,Nagpur,Credit Card,60,Female
+ORD00862,07-05-2025,Shampoo,Beauty,4,272.06,1088.24,Pune,Credit Card,48,Male
+ORD00863,12-10-2025,Wireless Mouse,Electronics,3,573.35,1720.05,Nashik,UPI,28,Male
+ORD00864,02-12-2025,Headphones,Electronics,4,1609.59,6438.36,Mumbai,Net Banking,27,Female
+ORD00865,26-06-2025,Keyboard,Electronics,1,975.26,975.26,Pune,Debit Card,40,Other
+ORD00866,28-04-2025,Mixer Grinder,Home & Kitchen,1,2714.97,2714.97,Nashik,Net Banking,42,Female
+ORD00867,10-06-2025,Sunscreen,Beauty,1,476.29,476.29,Nashik,Cash,22,Male
+ORD00868,05-04-2025,Cookware Set,Home & Kitchen,4,1850.84,7403.36,Navi Mumbai,Cash,18,Male
+ORD00869,28-01-2025,Face Wash,Beauty,4,196.24,784.96,Navi Mumbai,UPI,54,Female
+ORD00870,03-12-2025,Jacket,Clothing,2,2747.72,5495.44,Kolhapur,Credit Card,46,Female
+ORD00871,27-04-2025,Shampoo,Beauty,1,313.93,313.93,Thane,UPI,24,Female
+ORD00872,06-12-2025,Children's Book,Books,1,237.76,237.76,Kolhapur,Debit Card,33,Male
+ORD00873,24-06-2025,Face Wash,Beauty,3,212.64,637.92,Nashik,Cash,45,Male
+ORD00874,22-06-2025,Mixer Grinder,Home & Kitchen,1,2480.32,2480.32,Aurangabad,Net Banking,53,Male
+ORD00875,09-06-2025,Cookbook,Books,3,405.31,1215.93,Pune,Debit Card,27,Female
+ORD00876,11-01-2025,Business Book,Books,5,491.82,2459.1,Mumbai,Credit Card,29,Female
+ORD00877,21-07-2025,Sunscreen,Beauty,5,520.41,2602.05,Navi Mumbai,Credit Card,40,Female
+ORD00878,02-11-2025,Children's Book,Books,3,244.13,732.39,Pune,Net Banking,37,Female
+ORD00879,05-08-2025,Children's Book,Books,1,239.01,239.01,Mumbai,Cash,47,Male
+ORD00880,27-05-2025,Cookbook,Books,5,364.98,1824.9,Mumbai,Net Banking,23,Male
+ORD00881,05-06-2025,USB Drive,Electronics,3,476.54,1429.62,Nagpur,Debit Card,31,Male
+ORD00882,06-06-2025,Jacket,Clothing,1,2576.93,2576.93,Pune,Cash,55,Male
+ORD00883,22-10-2025,Jacket,Clothing,1,2311.74,2311.74,Aurangabad,UPI,24,Male
+ORD00884,21-07-2025,Sunscreen,Beauty,4,451.42,1805.68,Thane,Net Banking,42,Female
+ORD00885,10-10-2025,Jeans,Clothing,5,1341.14,6705.7,Kolhapur,UPI,46,Male
+ORD00886,08-05-2025,T-Shirt,Clothing,3,512.51,1537.53,Navi Mumbai,Debit Card,29,Female
+ORD00887,09-07-2025,Jacket,Clothing,4,2526.2,10104.8,Aurangabad,Credit Card,45,Male
+ORD00888,04-12-2025,Children's Book,Books,2,231.56,463.12,Nashik,Cash,46,Male
+ORD00889,05-11-2025,Children's Book,Books,1,229.53,229.53,Mumbai,Cash,58,Other
+ORD00890,22-06-2025,Jeans,Clothing,2,1241.98,2483.96,Navi Mumbai,Debit Card,30,Female
+ORD00891,22-03-2025,Jeans,Clothing,1,1300.66,1300.66,Nashik,Net Banking,52,Female
+ORD00892,19-11-2025,Cookbook,Books,2,373.45,746.9,Kolhapur,UPI,52,Female
+ORD00893,14-02-2025,Sneakers,Clothing,3,2071.96,6215.88,Navi Mumbai,Credit Card,56,Male
+ORD00894,15-11-2025,Wireless Mouse,Electronics,2,651.85,1303.7,Thane,UPI,57,Female
+ORD00895,02-12-2025,Headphones,Electronics,3,1471.4,4414.2,Kolhapur,Credit Card,49,Male
+ORD00896,11-03-2025,Headphones,Electronics,5,1491.32,7456.6,Thane,Net Banking,28,Male
+ORD00897,15-04-2025,Jacket,Clothing,2,2627.81,5255.62,Aurangabad,Cash,49,Male
+ORD00898,12-10-2025,Business Book,Books,4,464.44,1857.76,Thane,Net Banking,52,Female
+ORD00899,10-11-2025,Water Bottle,Home & Kitchen,2,363.36,726.72,Pune,Debit Card,48,Female
+ORD00900,23-06-2025,Sunscreen,Beauty,5,508.5,2542.5,Aurangabad,Net Banking,49,Female
+ORD00901,28-09-2025,Water Bottle,Home & Kitchen,2,378.09,756.18,Kolhapur,Net Banking,48,Male
+ORD00902,30-01-2025,Jeans,Clothing,5,1232.23,6161.15,Thane,Cash,52,Male
+ORD00903,27-06-2025,Novel,Books,1,283.67,283.67,Pune,Credit Card,34,Male
+ORD00904,14-08-2025,Wireless Mouse,Electronics,2,542.83,1085.66,Nashik,Debit Card,48,Male
+ORD00905,15-11-2025,Keyboard,Electronics,4,913.77,3655.08,Navi Mumbai,Debit Card,20,Male
+ORD00906,09-02-2025,Bedsheet,Home & Kitchen,5,1081.72,5408.6,Kolhapur,Cash,28,Male
+ORD00907,23-04-2025,Novel,Books,2,289,578,Nashik,Cash,44,Female
+ORD00908,06-05-2025,Keyboard,Electronics,1,810.34,810.34,Aurangabad,Credit Card,51,Male
+ORD00909,23-03-2025,Cookbook,Books,2,372.54,745.08,Kolhapur,Debit Card,65,Female
+ORD00910,06-04-2025,Jeans,Clothing,2,1341.33,2682.66,Aurangabad,Cash,25,Male
+ORD00911,10-10-2025,Business Book,Books,4,514.05,2056.2,Aurangabad,Cash,57,Male
+ORD00912,20-12-2025,Cookware Set,Home & Kitchen,3,1692.63,5077.89,Nagpur,Cash,27,Male
+ORD00913,27-06-2025,Sunscreen,Beauty,4,509.06,2036.24,Kolhapur,Debit Card,46,Female
+ORD00914,28-04-2025,Sunscreen,Beauty,5,511.93,2559.65,Nagpur,Credit Card,47,Male
+ORD00915,05-08-2025,Mixer Grinder,Home & Kitchen,4,2261.86,9047.44,Mumbai,UPI,58,Male
+ORD00916,28-03-2025,Shampoo,Beauty,3,305.88,917.64,Pune,Credit Card,60,Male
+ORD00917,06-10-2025,Bedsheet,Home & Kitchen,5,947.2,4736,Pune,UPI,26,Male
+ORD00918,07-08-2025,Jeans,Clothing,2,1428.61,2857.22,Pune,Net Banking,57,Male
+ORD00919,24-03-2025,Children's Book,Books,5,245.1,1225.5,Navi Mumbai,Debit Card,55,Female
+ORD00920,14-09-2025,Headphones,Electronics,2,1513.77,3027.54,Nashik,Net Banking,46,Male
+ORD00921,28-02-2025,Water Bottle,Home & Kitchen,4,383.2,1532.8,Navi Mumbai,UPI,28,Female
+ORD00922,22-05-2025,Shampoo,Beauty,4,290.48,1161.92,Thane,Credit Card,42,Male
+ORD00923,15-06-2025,Mixer Grinder,Home & Kitchen,2,2501.87,5003.74,Nashik,Net Banking,47,Male
+ORD00924,30-11-2025,Jeans,Clothing,1,1260.03,1260.03,Nagpur,Net Banking,26,Female
+ORD00925,19-01-2025,Mixer Grinder,Home & Kitchen,2,2715.45,5430.9,Mumbai,Debit Card,42,Male
+ORD00926,26-10-2025,Cookbook,Books,5,382.28,1911.4,Navi Mumbai,UPI,54,Male
+ORD00927,30-12-2025,Mixer Grinder,Home & Kitchen,1,2526.8,2526.8,Mumbai,Cash,61,Female
+ORD00928,26-10-2025,Children's Book,Books,5,252.15,1260.75,Thane,Cash,19,Female
+ORD00929,14-06-2025,Children's Book,Books,2,232.3,464.6,Aurangabad,Credit Card,45,Female
+ORD00930,01-10-2025,Mixer Grinder,Home & Kitchen,1,2555.05,2555.05,Aurangabad,Credit Card,62,Male
+ORD00931,08-08-2025,USB Drive,Electronics,1,525.62,525.62,Kolhapur,UPI,37,Female
+ORD00932,05-04-2025,Cookware Set,Home & Kitchen,2,1774.41,3548.82,Nashik,Cash,44,Male
+ORD00933,20-03-2025,Business Book,Books,1,540.59,540.59,Nashik,Net Banking,26,Male
+ORD00934,12-05-2025,Jacket,Clothing,2,2487.88,4975.76,Aurangabad,Net Banking,42,Male
+ORD00935,24-03-2025,T-Shirt,Clothing,5,533.21,2666.05,Nagpur,Cash,19,Male
+ORD00936,28-04-2025,Cookware Set,Home & Kitchen,5,1738.26,8691.3,Aurangabad,UPI,61,Male
+ORD00937,12-04-2025,Bedsheet,Home & Kitchen,4,1030.65,4122.6,Pune,UPI,65,Male
+ORD00938,03-06-2025,Water Bottle,Home & Kitchen,1,359.4,359.4,Thane,Debit Card,46,Male
+ORD00939,28-12-2025,Keyboard,Electronics,5,978.03,4890.15,Nashik,UPI,59,Female
+ORD00940,19-04-2025,Mixer Grinder,Home & Kitchen,4,2432.21,9728.84,Nagpur,Credit Card,23,Male
+ORD00941,17-08-2025,Cookbook,Books,5,425.91,2129.55,Kolhapur,UPI,53,Male
+ORD00942,07-01-2025,Wireless Mouse,Electronics,1,539.61,539.61,Nashik,Net Banking,43,Female
+ORD00943,02-01-2025,Mixer Grinder,Home & Kitchen,3,2585.91,7757.73,Thane,UPI,23,Male
+ORD00944,25-04-2025,Sunscreen,Beauty,3,538.41,1615.23,Nashik,Cash,47,Female
+ORD00945,04-09-2025,Novel,Books,1,321.75,321.75,Mumbai,Net Banking,50,Male
+ORD00946,29-12-2025,Cookware Set,Home & Kitchen,4,1814.43,7257.72,Thane,Cash,26,Male
+ORD00947,04-03-2025,Jeans,Clothing,2,1174.22,2348.44,Kolhapur,UPI,34,Male
+ORD00948,14-11-2025,Sunscreen,Beauty,1,494.13,494.13,Pune,UPI,64,Female
+ORD00949,13-06-2025,Jeans,Clothing,3,1266.55,3799.65,Nashik,UPI,34,Male
+ORD00950,15-11-2025,Jeans,Clothing,1,1314.81,1314.81,Mumbai,Debit Card,22,Male
+ORD00951,20-02-2025,Business Book,Books,5,449.54,2247.7,Thane,UPI,22,Female
+ORD00952,30-04-2025,T-Shirt,Clothing,5,489.61,2448.05,Navi Mumbai,Cash,52,Female
+ORD00953,09-02-2025,Novel,Books,2,295.27,590.54,Nagpur,Debit Card,31,Male
+ORD00954,27-12-2025,Wireless Mouse,Electronics,2,570.4,1140.8,Navi Mumbai,Net Banking,49,Female
+ORD00955,07-02-2025,Water Bottle,Home & Kitchen,3,424.69,1274.07,Mumbai,Debit Card,49,Male
+ORD00956,03-08-2025,Wireless Mouse,Electronics,5,629.16,3145.8,Kolhapur,Net Banking,46,Male
+ORD00957,12-03-2025,Moisturizer,Beauty,3,359.53,1078.59,Thane,Debit Card,37,Female
+ORD00958,25-09-2025,USB Drive,Electronics,2,454.06,908.12,Thane,Net Banking,59,Female
+ORD00959,16-12-2025,Keyboard,Electronics,3,966.47,2899.41,Nashik,Net Banking,58,Male
+ORD00960,06-12-2025,Shampoo,Beauty,4,303.62,1214.48,Nagpur,Cash,26,Female
+ORD00961,21-04-2025,Children's Book,Books,2,273.21,546.42,Pune,Credit Card,63,Male
+ORD00962,09-11-2025,Wireless Mouse,Electronics,4,605.57,2422.28,Thane,Debit Card,47,Male
+ORD00963,11-11-2025,Business Book,Books,3,515.78,1547.34,Kolhapur,Cash,65,Other
+ORD00964,01-11-2025,Cookware Set,Home & Kitchen,2,1713.47,3426.94,Mumbai,Cash,44,Female
+ORD00965,03-05-2025,Cookbook,Books,3,360.08,1080.24,Thane,Cash,19,Male
+ORD00966,19-05-2025,Shampoo,Beauty,1,285.95,285.95,Navi Mumbai,Net Banking,30,Male
+ORD00967,06-05-2025,Jacket,Clothing,4,2447.05,9788.2,Nashik,UPI,21,Male
+ORD00968,17-10-2025,Shampoo,Beauty,2,274.27,548.54,Nagpur,Net Banking,59,Male
+ORD00969,23-02-2025,T-Shirt,Clothing,3,509.21,1527.63,Thane,Net Banking,54,Male
+ORD00970,14-04-2025,Cookware Set,Home & Kitchen,4,1886.28,7545.12,Pune,Debit Card,25,Male
+ORD00971,11-09-2025,Sneakers,Clothing,2,2065.31,4130.62,Thane,Net Banking,29,Male
+ORD00972,16-09-2025,Jacket,Clothing,1,2683.3,2683.3,Nashik,Net Banking,32,Male
+ORD00973,01-10-2025,Cookbook,Books,4,412.26,1649.04,Aurangabad,Credit Card,40,Female
+ORD00974,12-10-2025,Sunscreen,Beauty,4,514.06,2056.24,Kolhapur,Credit Card,62,Female
+ORD00975,13-05-2025,Jeans,Clothing,4,1381.9,5527.6,Navi Mumbai,Cash,19,Male
+ORD00976,05-06-2025,USB Drive,Electronics,5,537.37,2686.85,Kolhapur,Credit Card,38,Female
+ORD00977,26-04-2025,USB Drive,Electronics,1,463.6,463.6,Navi Mumbai,Net Banking,57,Female
+ORD00978,19-04-2025,Wireless Mouse,Electronics,4,620.78,2483.12,Thane,Cash,52,Male
+ORD00979,21-03-2025,Bedsheet,Home & Kitchen,2,1038.3,2076.6,Kolhapur,Cash,63,Male
+ORD00980,14-03-2025,Wireless Mouse,Electronics,4,549.4,2197.6,Pune,Debit Card,39,Female
+ORD00981,22-05-2025,Jacket,Clothing,3,2738.09,8214.27,Mumbai,Debit Card,23,Male
+ORD00982,17-05-2025,Mixer Grinder,Home & Kitchen,2,2411.88,4823.76,Nagpur,UPI,19,Female
+ORD00983,21-05-2025,T-Shirt,Clothing,4,463.72,1854.88,Mumbai,Debit Card,36,Male
+ORD00984,03-07-2025,Novel,Books,1,282.65,282.65,Aurangabad,Net Banking,30,Female
+ORD00985,10-03-2025,Business Book,Books,3,521.69,1565.07,Thane,Debit Card,34,Female
+ORD00986,25-12-2025,Keyboard,Electronics,1,872.64,872.64,Navi Mumbai,Net Banking,41,Female
+ORD00987,07-12-2025,Wireless Mouse,Electronics,5,616.49,3082.45,Kolhapur,Net Banking,32,Female
+ORD00988,05-01-2025,Face Wash,Beauty,4,193.32,773.28,Navi Mumbai,Net Banking,49,Male
+ORD00989,03-02-2025,Jacket,Clothing,2,2663.93,5327.86,Navi Mumbai,Credit Card,20,Male
+ORD00990,28-02-2025,Face Wash,Beauty,1,211.41,211.41,Aurangabad,UPI,53,Female
+ORD00991,29-10-2025,Mixer Grinder,Home & Kitchen,2,2425.05,4850.1,Nagpur,Debit Card,49,Male
+ORD00992,23-11-2025,Water Bottle,Home & Kitchen,3,418.75,1256.25,Pune,Net Banking,62,Female
+ORD00993,24-08-2025,Wireless Mouse,Electronics,1,562.09,562.09,Pune,UPI,48,Male
+ORD00994,18-04-2025,Novel,Books,1,313.35,313.35,Mumbai,Credit Card,56,Female
+ORD00995,09-07-2025,Water Bottle,Home & Kitchen,5,366.81,1834.05,Thane,Cash,48,Female
+ORD00996,21-01-2025,USB Drive,Electronics,2,517.25,1034.5,Pune,Net Banking,28,Male
+ORD00997,31-12-2025,Cookware Set,Home & Kitchen,4,1628.43,6513.72,Mumbai,UPI,36,Male
+ORD00998,10-10-2025,T-Shirt,Clothing,5,540.18,2700.9,Kolhapur,Net Banking,24,Male
+ORD00999,25-04-2025,Cookbook,Books,3,412.03,1236.09,Kolhapur,Credit Card,58,Female
+ORD01000,24-04-2025,Jeans,Clothing,2,1419.63,2839.26,Thane,Credit Card,19,Male
